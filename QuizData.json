@@ -1,7 +1,7 @@
 [
     {
-        "category": "Mødet med borgeren",
-        "subcategory": "kommunikation",
+        "category": "Livstilssygdomme",
+        "subcategory": "KOL",
         "type": "multipleChoice",
         "question": "Hvordan adskiller mødet med borgeren sig fra et formelt møde med dagsorden og faste emner?",
         "options": [
@@ -13,8 +13,8 @@
         "correctAnswer": "Det kan være både korte og længerevarende relationer med fokus på tryghed og kontakt"
     },
     {
-        "category": "Mødet med borgeren",
-        "subcategory": "kommunikation",
+        "category": "Psykologi",
+        "subcategory": "Demens",
         "type": "trueFalse",
         "question": "Mødet med borgeren handler kun om at løse sundhedsfaglige opgaver.",
         "options": null,
