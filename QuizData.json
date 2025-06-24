@@ -1,0 +1,31 @@
+[
+    {
+        "category": "Mødet med borgeren",
+        "subcategory": "kommunikation",
+        "type": "multipleChoice",
+        "question": "Hvordan adskiller mødet med borgeren sig fra et formelt møde med dagsorden og faste emner?",
+        "options": [
+            "Det er altid planlagt og følger en fast struktur",
+            "Det handler kun om sundhedsfaglige opgaver",
+            "Det kan være både korte og længerevarende relationer med fokus på tryghed og kontakt",
+            "Det foregår kun med pårørende"
+        ],
+        "correctAnswer": "Det kan være både korte og længerevarende relationer med fokus på tryghed og kontakt"
+    },
+    {
+        "category": "Mødet med borgeren",
+        "subcategory": "kommunikation",
+        "type": "trueFalse",
+        "question": "Mødet med borgeren handler kun om at løse sundhedsfaglige opgaver.",
+        "options": null,
+        "correctAnswer": "false"
+    },
+    {
+        "category": "Somatik",
+        "subcategory": "Somatik",
+        "type": "trueFalse",
+        "question": "En del af dit arbejde som sundhedsprofessionel er at skabe en tryg relation til borgeren.",
+        "options": null,
+        "correctAnswer": "true"
+    }
+]
