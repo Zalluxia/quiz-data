@@ -1,6 +1,6 @@
 [
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.1 Kombination af viden",
     "type": "multipleChoice",
     "question": "Hvad er formålet med at kombinere viden om anatomi, fysiologi, sygdom og sygepleje?",
@@ -13,7 +13,7 @@
     "correctAnswer": "At kunne lave en faglig vurdering og planlægge passende sygepleje"
   },
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.1 Kombination af viden",
     "type": "trueFalse",
     "question": "Du kan planlægge kvalificeret sygepleje uden at vide noget om fysiologi.",
@@ -21,7 +21,7 @@
     "correctAnswer": "false"
   },
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.1 Kombination af viden",
     "type": "multipleChoice",
     "question": "Hvilket symptom hos Kim Kristensen peger på væskeophobning?",
@@ -34,7 +34,7 @@
     "correctAnswer": "Sokkerne laver dybe mærker i underbenene"
   },
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.1 Kombination af viden",
     "type": "multipleChoice",
     "question": "Hvilken metode kan du bruge til at identificere Kims sygeplejeproblemer?",
@@ -47,7 +47,7 @@
     "correctAnswer": "Sygeplejeprocessen"
   },
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.1 Kombination af viden",
     "type": "trueFalse",
     "question": "Sygeplejeprocessen kræver, at du bruger din faglige viden om både anatomi, fysiologi og sygdom.",
@@ -55,7 +55,7 @@
     "correctAnswer": "true"
   },
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.1 Kombination af viden",
     "type": "multipleChoice",
     "question": "Hvad er en vigtig opgave, når du observerer åndenød hos en borger?",
@@ -68,7 +68,7 @@
     "correctAnswer": "At dokumentere og reagere på ændringer i vejrtrækningen"
   },
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.1 Kombination af viden",
     "type": "multipleChoice",
     "question": "Hvorfor er det vigtigt at kende til hjerte og kredsløbets funktion ved pleje af Kim?",
@@ -81,7 +81,7 @@
     "correctAnswer": "For at kunne forstå og handle på hans symptomer korrekt"
   },
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.1 Kombination af viden",
     "type": "trueFalse",
     "question": "Observationer af ødemer og dyspnø kan være vigtige tegn på hjerteinsufficiens.",
@@ -89,7 +89,7 @@
     "correctAnswer": "true"
   },
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.2 Latinske ord for krop og retninger",
     "type": "multipleChoice",
     "question": "Hvad betyder det latinske ord 'caput'?",
@@ -102,7 +102,7 @@
     "correctAnswer": "Hoved"
   },
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.2 Latinske ord for krop og retninger",
     "type": "multipleChoice",
     "question": "Hvordan udtales 'Cystitis' ifølge danske udtaleregler?",
@@ -115,7 +115,7 @@
     "correctAnswer": "Systitis"
   },
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.2 Latinske ord for krop og retninger",
     "type": "multipleChoice",
     "question": "Hvad kaldes den lange del af en rørknogle på latin?",
@@ -128,7 +128,7 @@
     "correctAnswer": "Corpus"
   },
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.2 Latinske ord for krop og retninger",
     "type": "trueFalse",
     "question": "På latin betyder 'vena cava superior' den øvre hulvene.",
@@ -136,7 +136,7 @@
     "correctAnswer": "true"
   },
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.2 Latinske ord for krop og retninger",
     "type": "multipleChoice",
     "question": "Hvad betyder 'collum femoris'?",
@@ -149,7 +149,7 @@
     "correctAnswer": "Lårbenshals"
   },
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.2 Latinske ord for krop og retninger",
     "type": "multipleChoice",
     "question": "Hvordan udtales 'Leucocyt' korrekt på dansk?",
@@ -162,7 +162,7 @@
     "correctAnswer": "Løwkosyt"
   },
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.2 Latinske ord for krop og retninger",
     "type": "trueFalse",
     "question": "Caput femoris er det latinske navn for lårbenshovedet.",
@@ -170,7 +170,7 @@
     "correctAnswer": "true"
   },
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.2 Latinske ord for krop og retninger",
     "type": "multipleChoice",
     "question": "Hvordan udtales 'Diaphragma' på dansk?",
@@ -183,7 +183,7 @@
     "correctAnswer": "Diafragma"
   },
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.2 Latinske ord for krop og retninger",
     "type": "multipleChoice",
     "question": "Hvad betyder det latinske ord 'auris'?",
@@ -196,7 +196,7 @@
     "correctAnswer": "Øre"
   },
   {
-    "category": "Fra anatomi til sygepleje",
+    "category": "1. Fra anatomi til sygepleje",
     "subcategory": "1.2 Latinske ord for krop og retninger",
     "type": "trueFalse",
     "question": "Vokalerne 'ae' udtales som 'æ' i danske udtaleregler for latinske ord.",
@@ -204,7 +204,7 @@
     "correctAnswer": "true"
   },
     {
-    "category": "Cellen – grundlag for organsystemerne",
+    "category": "2. Cellen – grundlag for organsystemerne",
     "subcategory": "2.1. Cellens opbygning",
     "type": "multipleChoice",
     "question": "Hvad er cellemembranens vigtigste funktion?",
@@ -217,7 +217,7 @@
     "correctAnswer": "At regulere, hvad der kommer ind og ud af cellen"
   },
   {
-    "category": "Cellen – grundlag for organsystemerne",
+    "category": "2. Cellen – grundlag for organsystemerne",
     "subcategory": "2.1. Cellens opbygning",
     "type": "trueFalse",
     "question": "Mitokondrierne producerer over 90 % af cellens energi og varme.",
@@ -225,7 +225,7 @@
     "correctAnswer": "true"
   },
   {
-    "category": "Cellen – grundlag for organsystemerne",
+    "category": "2. Cellen – grundlag for organsystemerne",
     "subcategory": "2.1. Cellens opbygning",
     "type": "multipleChoice",
     "question": "Hvilket stof opbevarer cellens energi?",
@@ -238,7 +238,7 @@
     "correctAnswer": "ATP"
   },
   {
-    "category": "Cellen – grundlag for organsystemerne",
+    "category": "2. Cellen – grundlag for organsystemerne",
     "subcategory": "2.1. Cellens opbygning",
     "type": "multipleChoice",
     "question": "Hvilken funktion har lysosomerne?",
@@ -251,7 +251,7 @@
     "correctAnswer": "At nedbryde døde celler og bakterier"
   },
   {
-    "category": "Cellen – grundlag for organsystemerne",
+    "category": "2. Cellen – grundlag for organsystemerne",
     "subcategory": "2.1. Cellens opbygning",
     "type": "trueFalse",
     "question": "Cellemembranen er helt uigennemtrængelig for stoffer.",
@@ -259,7 +259,7 @@
     "correctAnswer": "false"
   },
   {
-    "category": "Cellen – grundlag for organsystemerne",
+    "category": "2. Cellen – grundlag for organsystemerne",
     "subcategory": "2.1. Cellens opbygning",
     "type": "multipleChoice",
     "question": "Hvor foregår selve dannelsen af proteiner i cellen?",
@@ -272,7 +272,7 @@
     "correctAnswer": "Ribosomerne"
   },
   {
-    "category": "Cellen – grundlag for organsystemerne",
+    "category": "2. Cellen – grundlag for organsystemerne",
     "subcategory": "2.1. Cellens opbygning",
     "type": "multipleChoice",
     "question": "Hvilke stoffer danner koderne i DNA?",
@@ -285,7 +285,7 @@
     "correctAnswer": "Adenin, thymin, guanin og cytosin"
   },
   {
-    "category": "Cellen – grundlag for organsystemerne",
+    "category": "2. Cellen – grundlag for organsystemerne",
     "subcategory": "2.1. Cellens opbygning",
     "type": "multipleChoice",
     "question": "Hvilken funktion har golgiapparatet?",
@@ -298,7 +298,7 @@
     "correctAnswer": "Det pakker og mærker proteiner til deres funktion"
   },
   {
-    "category": "Cellen – grundlag for organsystemerne",
+    "category": "2. Cellen – grundlag for organsystemerne",
     "subcategory": "2.1. Cellens opbygning",
     "type": "trueFalse",
     "question": "Cellekernen indeholder kroppens arvemateriale i form af gener og DNA.",
@@ -306,7 +306,7 @@
     "correctAnswer": "true"
   },
   {
-    "category": "Cellen – grundlag for organsystemerne",
+    "category": "2. Cellen – grundlag for organsystemerne",
     "subcategory": "2.1. Cellens opbygning",
     "type": "multipleChoice",
     "question": "Hvad producerer det glatte endoplasmatiske reticulum (glat-ER)?",
