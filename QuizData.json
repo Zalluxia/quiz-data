@@ -1,6 +1,6 @@
 [
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Fra anatomi til sygepleje",
     "subchapter": "1.1 kombination af viden",
     "type": "multiplechoice",
@@ -9,7 +9,7 @@
     "correctAnswer": "Anatomi, Fysiologi, Sygepleje, Sygdomslære"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Fra anatomi til sygepleje",
     "subchapter": "1.1 kombination af viden",
     "type": "truefalse",
@@ -17,7 +17,7 @@
     "correctAnswer": "false"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Fra anatomi til sygepleje",
     "subchapter": "1.1 kombination af viden",
     "type": "multiplechoice",
@@ -26,7 +26,7 @@
     "correctAnswer": "Åndenød"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Fra anatomi til sygepleje",
     "subchapter": "1.1 kombination af viden",
     "type": "truefalse",
@@ -34,7 +34,7 @@
     "correctAnswer": "true"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Fra anatomi til sygepleje",
     "subchapter": "1.1 kombination af viden",
     "type": "multiplechoice",
@@ -43,7 +43,7 @@
     "correctAnswer": "Sygeplejen bliver tilfældig og uden kvalitet"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Fra anatomi til sygepleje",
     "subchapter": "1.1 kombination af viden",
     "type": "truefalse",
@@ -51,7 +51,7 @@
     "correctAnswer": "false"
   },
     {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Fra anatomi til sygepleje",
     "subchapter": "1.2 Latinske ord for krop og retninger",
     "type": "multiplechoice",
@@ -60,7 +60,7 @@
     "correctAnswer": "Caput"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Fra anatomi til sygepleje",
     "subchapter": "1.2 Latinske ord for krop og retninger",
     "type": "truefalse",
@@ -68,7 +68,7 @@
     "correctAnswer": "false"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Fra anatomi til sygepleje",
     "subchapter": "1.2 Latinske ord for krop og retninger",
     "type": "multiplechoice",
@@ -77,7 +77,7 @@
     "correctAnswer": "Lateral"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Fra anatomi til sygepleje",
     "subchapter": "1.2 Latinske ord for krop og retninger",
     "type": "truefalse",
@@ -85,7 +85,7 @@
     "correctAnswer": "true"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Fra anatomi til sygepleje",
     "subchapter": "1.2 Latinske ord for krop og retninger",
     "type": "multiplechoice",
@@ -94,7 +94,7 @@
     "correctAnswer": "Difragma"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Fra anatomi til sygepleje",
     "subchapter": "1.2 Latinske ord for krop og retninger",
     "type": "truefalse",
@@ -102,7 +102,7 @@
     "correctAnswer": "true"
   },
     {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.1 Cellen opbygning",
     "type": "multiplechoice",
@@ -111,7 +111,7 @@
     "correctAnswer": "Ribosom"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.1 Cellen opbygning",
     "type": "truefalse",
@@ -119,7 +119,7 @@
     "correctAnswer": "true"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.1 Cellen opbygning",
     "type": "multiplechoice",
@@ -128,7 +128,7 @@
     "correctAnswer": "A, T, C, G"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.1 Cellen opbygning",
     "type": "truefalse",
@@ -136,7 +136,7 @@
     "correctAnswer": "false"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.1 Cellen opbygning",
     "type": "multiplechoice",
@@ -145,7 +145,7 @@
     "correctAnswer": "Medvirker i produktion af lipider og nedbrydning af giftstoffer"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.1 Cellen opbygning",
     "type": "truefalse",
@@ -153,7 +153,7 @@
     "correctAnswer": "true"
   },
     {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.1 Cellen opbygning",
     "type": "multiplechoice",
@@ -162,7 +162,7 @@
     "correctAnswer": "Danner proteiner ved hjælp af ribosomer"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.1 Cellen opbygning",
     "type": "truefalse",
@@ -170,7 +170,7 @@
     "correctAnswer": "true"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.1 Cellen opbygning",
     "type": "multiplechoice",
@@ -179,7 +179,7 @@
     "correctAnswer": "I cellekernen"
   },
     {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.2 Celledeling (mitose)",
     "type": "multiplechoice",
@@ -188,7 +188,7 @@
     "correctAnswer": "At danne nye identiske celler"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.2 Celledeling (mitose)",
     "type": "truefalse",
@@ -196,7 +196,7 @@
     "correctAnswer": "false"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.2 Celledeling (mitose)",
     "type": "multiplechoice",
@@ -205,7 +205,7 @@
     "correctAnswer": "Centriole"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.2 Celledeling (mitose)",
     "type": "truefalse",
@@ -213,7 +213,7 @@
     "correctAnswer": "true"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.2 Celledeling (mitose)",
     "type": "multiplechoice",
@@ -222,7 +222,7 @@
     "correctAnswer": "Stadie a"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.2 Celledeling (mitose)",
     "type": "truefalse",
@@ -230,7 +230,7 @@
     "correctAnswer": "true"
   },
     {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.2 Celledeling (mitose)",
     "type": "multiplechoice",
@@ -239,7 +239,7 @@
     "correctAnswer": "Datterceller"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.2 Celledeling (mitose)",
     "type": "truefalse",
@@ -247,7 +247,7 @@
     "correctAnswer": "false"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.2 Celledeling (mitose)",
     "type": "multiplechoice",
@@ -256,7 +256,7 @@
     "correctAnswer": "Når centriolerne har trukket kromosomerne til hver side"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.2 Celledeling (mitose)",
     "type": "truefalse",
@@ -264,7 +264,7 @@
     "correctAnswer": "true"
   },
     {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
     "type": "multiplechoice",
@@ -273,7 +273,7 @@
     "correctAnswer": "Blodmangel"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
     "type": "truefalse",
@@ -281,7 +281,7 @@
     "correctAnswer": "true"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
     "type": "multiplechoice",
@@ -290,7 +290,7 @@
     "correctAnswer": "Røntgen"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
     "type": "truefalse",
@@ -298,7 +298,7 @@
     "correctAnswer": "true"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
     "type": "multiplechoice",
@@ -307,7 +307,7 @@
     "correctAnswer": "Ultralydsscanning"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
     "type": "truefalse",
@@ -315,7 +315,7 @@
     "correctAnswer": "false"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
     "type": "multiplechoice",
@@ -324,7 +324,7 @@
     "correctAnswer": "PET-scanning"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
     "type": "truefalse",
@@ -332,7 +332,7 @@
     "correctAnswer": "true"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
     "type": "multiplechoice",
@@ -341,7 +341,7 @@
     "correctAnswer": "Mørke områder med radioaktivt stof"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
     "type": "truefalse",
@@ -349,7 +349,7 @@
     "correctAnswer": "true"
   },
     {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "multiplechoice",
@@ -358,7 +358,7 @@
     "correctAnswer": "Metastase"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "truefalse",
@@ -366,7 +366,7 @@
     "correctAnswer": "false"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "multiplechoice",
@@ -375,7 +375,7 @@
     "correctAnswer": "Apoptose"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "truefalse",
@@ -383,7 +383,7 @@
     "correctAnswer": "true"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "multiplechoice",
@@ -392,7 +392,7 @@
     "correctAnswer": "Strålebehandling"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "truefalse",
@@ -400,7 +400,7 @@
     "correctAnswer": "false"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "multiplechoice",
@@ -409,7 +409,7 @@
     "correctAnswer": "Stråling"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "truefalse",
@@ -417,7 +417,7 @@
     "correctAnswer": "true"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "multiplechoice",
@@ -426,7 +426,7 @@
     "correctAnswer": "Spredning af kræft"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "truefalse",
@@ -434,7 +434,7 @@
     "correctAnswer": "true"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "multiplechoice",
@@ -443,7 +443,7 @@
     "correctAnswer": "Lymfeknudespredning"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "truefalse",
@@ -451,7 +451,7 @@
     "correctAnswer": "true"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "multiplechoice",
@@ -460,7 +460,7 @@
     "correctAnswer": "Rygning"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "truefalse",
@@ -468,7 +468,7 @@
     "correctAnswer": "false"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "multiplechoice",
@@ -477,7 +477,7 @@
     "correctAnswer": "Bryst"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "truefalse",
@@ -485,7 +485,7 @@
     "correctAnswer": "true"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "multiplechoice",
@@ -494,7 +494,7 @@
     "correctAnswer": "Fjerne kræftvæv"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "truefalse",
@@ -502,7 +502,7 @@
     "correctAnswer": "true"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "multiplechoice",
@@ -511,7 +511,7 @@
     "correctAnswer": "Uden kontrol"
   },
   {
-    "book": "Somatik",
+    "book": "Somatik bind 1",
     "chapter": "Cellen – grundlag for organsystemerne",
     "subchapter": "2.4 Cancer",
     "type": "truefalse",
