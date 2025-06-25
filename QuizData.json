@@ -101,5 +101,422 @@
     "question": "Vokalerne 'ae' i latinske ord udtales som æ.",
     "correctAnswer": "true"
   },
+    {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.1 Cellen opbygning",
+    "type": "multiplechoice",
+    "question": "Hvad kaldes den struktur, hvor proteiner dannes i cellen?",
+    "options": ["Mitokondrie", "Golgiapparat", "Ribosom", "Lysosom"],
+    "correctAnswer": "Ribosom"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.1 Cellen opbygning",
+    "type": "truefalse",
+    "question": "DNA findes i cellekernen og indeholder opskrifter på proteiner.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.1 Cellen opbygning",
+    "type": "multiplechoice",
+    "question": "Hvilke fire baser indgår i DNA's opbygning?",
+    "options": ["A, B, C, D", "A, T, C, G", "U, A, C, G", "T, A, G, U"],
+    "correctAnswer": "A, T, C, G"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.1 Cellen opbygning",
+    "type": "truefalse",
+    "question": "Golgiapparatet sørger for at danne energi til cellens funktioner.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.1 Cellen opbygning",
+    "type": "multiplechoice",
+    "question": "Hvad er funktionen af det glatte endoplasmatiske reticulum (Glat ER)?",
+    "options": ["Danner proteiner", "Producerer ribosomer", "Medvirker i produktion af lipider og nedbrydning af giftstoffer", "Transporterer DNA"],
+    "correctAnswer": "Medvirker i produktion af lipider og nedbrydning af giftstoffer"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.1 Cellen opbygning",
+    "type": "truefalse",
+    "question": "mRNA bringer opskriften fra DNA ud til ribosomerne, hvor proteiner dannes.",
+    "correctAnswer": "true"
+  },
+    {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.1 Cellen opbygning",
+    "type": "multiplechoice",
+    "question": "Hvad er funktionen af det ru endoplasmatiske reticulum (Ru-ER)?",
+    "options": ["Producerer energi", "Danner proteiner ved hjælp af ribosomer", "Nedbryder affaldsstoffer", "Lagrer arvemateriale"],
+    "correctAnswer": "Danner proteiner ved hjælp af ribosomer"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.1 Cellen opbygning",
+    "type": "truefalse",
+    "question": "Golgiapparatet modificerer og pakker proteiner til transport i cellen.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.1 Cellen opbygning",
+    "type": "multiplechoice",
+    "question": "Hvor findes DNA i cellen?",
+    "options": ["I ribosomerne", "I mitokondrierne", "I cellemembranen", "I cellekernen"],
+    "correctAnswer": "I cellekernen"
+  },
+    {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.2 Celledeling (mitose)",
+    "type": "multiplechoice",
+    "question": "Hvad er formålet med almindelig celledeling (mitose)?",
+    "options": ["At skabe kønsceller", "At danne nye identiske celler", "At halvere kromosomtallet", "At udveksle genetisk materiale"],
+    "correctAnswer": "At danne nye identiske celler"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.2 Celledeling (mitose)",
+    "type": "truefalse",
+    "question": "I mitose dannes to celler, der er genetisk forskellige fra hinanden.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.2 Celledeling (mitose)",
+    "type": "multiplechoice",
+    "question": "Hvilken struktur placerer sig i cellens midte og trækker kromosomerne fra hinanden under celledeling?",
+    "options": ["Mitokondrier", "Ribosomer", "Centriole", "Lysosomer"],
+    "correctAnswer": "Centriole"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.2 Celledeling (mitose)",
+    "type": "truefalse",
+    "question": "I mitose fordobles DNA'et, før cellen deles i to.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.2 Celledeling (mitose)",
+    "type": "multiplechoice",
+    "question": "Hvad kaldes det stadie i mitosen, hvor cellekernen bliver opløst og kromosomerne bliver tydelige?",
+    "options": ["Stadie a", "Stadie b", "Stadie c", "Stadie d"],
+    "correctAnswer": "Stadie a"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.2 Celledeling (mitose)",
+    "type": "truefalse",
+    "question": "Efter mitose indeholder hver dattercelle 23 kromosompar.",
+    "correctAnswer": "true"
+  },
+    {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.2 Celledeling (mitose)",
+    "type": "multiplechoice",
+    "question": "Hvad kaldes de celler, der dannes efter mitose?",
+    "options": ["Kønsceller", "Datterceller", "Stamceller", "Proteinproducerende celler"],
+    "correctAnswer": "Datterceller"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.2 Celledeling (mitose)",
+    "type": "truefalse",
+    "question": "Celledeling ved mitose bruges til at danne æg- og sædceller.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.2 Celledeling (mitose)",
+    "type": "multiplechoice",
+    "question": "Hvornår opstår der en indsnøring midt på cellen under mitose?",
+    "options": ["Når DNA kopieres", "Når kernemembranen opløses", "Når centriolerne har trukket kromosomerne til hver side", "Når ribosomerne dannes"],
+    "correctAnswer": "Når centriolerne har trukket kromosomerne til hver side"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.2 Celledeling (mitose)",
+    "type": "truefalse",
+    "question": "Centrioler er kun aktive under celledeling og bliver passive bagefter.",
+    "correctAnswer": "true"
+  },
+    {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
+    "type": "multiplechoice",
+    "question": "Hvad undersøges med anæmiprøver ved mistanke om cancer?",
+    "options": ["Infektioner", "Blodmangel", "Leverfunktion", "Lungefunktion"],
+    "correctAnswer": "Blodmangel"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
+    "type": "truefalse",
+    "question": "Infektionstal i blodet kan vise, om immunforsvaret prøver at angribe cancerceller.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
+    "type": "multiplechoice",
+    "question": "Hvilken scanning bruges typisk til at undersøge lungecancer?",
+    "options": ["MR-scanning", "Ultralydsscanning", "Røntgen", "PET-scanning"],
+    "correctAnswer": "Røntgen"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
+    "type": "truefalse",
+    "question": "Tumormarkører i blodet kan indikere, om der er cancerceller i kroppen.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
+    "type": "multiplechoice",
+    "question": "Hvilken metode bruger lydbølger til at danne billeder af organer?",
+    "options": ["CT-scanning", "Ultralydsscanning", "PET-scanning", "Skintigrafi"],
+    "correctAnswer": "Ultralydsscanning"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
+    "type": "truefalse",
+    "question": "CT-scanning bruger radiobølger og viser kun bløde vævstyper.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
+    "type": "multiplechoice",
+    "question": "Hvilken type scanning bruges til at finde områder med høj glukoseoptagelse?",
+    "options": ["CT-scanning", "PET-scanning", "Ultralydsscanning", "MR-scanning"],
+    "correctAnswer": "PET-scanning"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
+    "type": "truefalse",
+    "question": "Ved MR-scanning bruges elektromagnetiske signaler til at danne billeder.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
+    "type": "multiplechoice",
+    "question": "Hvad viser skintigrafi tydeligt ved mistanke om knoglemetastaser?",
+    "options": ["Knoglebrud", "Betændelse", "Tumorens DNA", "Mørke områder med radioaktivt stof"],
+    "correctAnswer": "Mørke områder med radioaktivt stof"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.3 Undersøgelse i forhold til sygdomme i cellen",
+    "type": "truefalse",
+    "question": "Ved cancer i knoglerne er det mest almindeligt, at metastaser stammer fra andre tumorer i kroppen.",
+    "correctAnswer": "true"
+  },
+    {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "multiplechoice",
+    "question": "Hvad kaldes det, når kræftceller spreder sig til andre dele af kroppen?",
+    "options": ["Mutation", "Inflammation", "Metastase", "Infektion"],
+    "correctAnswer": "Metastase"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "truefalse",
+    "question": "Godartede tumorer spreder sig typisk til andre dele af kroppen.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "multiplechoice",
+    "question": "Hvad kaldes den naturlige proces, hvor celler dør kontrolleret?",
+    "options": ["Mitose", "Apoptose", "Mutation", "Nekrose"],
+    "correctAnswer": "Apoptose"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "truefalse",
+    "question": "Apoptose er en form for programmeret celledød.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "multiplechoice",
+    "question": "Hvilken behandlingsform bruges ofte til at ødelægge kræftceller med stråling?",
+    "options": ["Kemoterapi", "Strålebehandling", "Antibiotika", "Fysioterapi"],
+    "correctAnswer": "Strålebehandling"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "truefalse",
+    "question": "Kemoterapi påvirker kun kræftceller og ikke raske celler.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "multiplechoice",
+    "question": "Hvad er en typisk årsag til mutationer i cellens DNA?",
+    "options": ["Stråling", "Kulde", "Motion", "Vitaminer"],
+    "correctAnswer": "Stråling"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "truefalse",
+    "question": "Ondartede tumorer kan vokse ind i nærliggende væv.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "multiplechoice",
+    "question": "Hvad viser TNM-klassifikationen?",
+    "options": ["Tumorens type og behandling", "Spredning af kræft", "T-celleaktivitet", "Immunforsvarets status"],
+    "correctAnswer": "Spredning af kræft"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "truefalse",
+    "question": "Stadieinddeling bruges til at vurdere, hvor udbredt en kræftsygdom er.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "multiplechoice",
+    "question": "Hvad betyder 'N' i TNM-klassifikationen?",
+    "options": ["Tumorens størrelse", "Lymfeknudespredning", "Antal mutationer", "Kræfttype"],
+    "correctAnswer": "Lymfeknudespredning"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "truefalse",
+    "question": "Stadie 4 betyder, at kræften har spredt sig til andre organer.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "multiplechoice",
+    "question": "Hvilken af følgende er en risikofaktor for udvikling af cancer?",
+    "options": ["Sund kost", "Regelmæssig motion", "Rygning", "Lavt blodtryk"],
+    "correctAnswer": "Rygning"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "truefalse",
+    "question": "Cancer skyldes altid arvelige faktorer.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "multiplechoice",
+    "question": "Hvilket organ er vist på figuren med lymfeknuder og metastasevej?",
+    "options": ["Lever", "Hjerte", "Lunger", "Bryst"],
+    "correctAnswer": "Bryst"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "truefalse",
+    "question": "Brystkræft kan sprede sig via lymfesystemet.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "multiplechoice",
+    "question": "Hvad er målet med kirurgisk behandling af cancer?",
+    "options": ["Forebygge infektioner", "Fjerne kræftvæv", "Stimulere immunsystemet", "Give kemoterapi"],
+    "correctAnswer": "Fjerne kræftvæv"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "truefalse",
+    "question": "Immunterapi aktiverer kroppens eget forsvar mod kræftceller.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "multiplechoice",
+    "question": "Hvad kendetegner kræftcellers vækst?",
+    "options": ["Langsom og stabil", "Uden kontrol", "Afhængig af kroppens behov", "Sæsonbestemt"],
+    "correctAnswer": "Uden kontrol"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Cellen – grundlag for organsystemerne",
+    "subchapter": "2.4 Cancer",
+    "type": "truefalse",
+    "question": "Stamceller kan under visse forhold udvikle sig til cancerceller.",
+    "correctAnswer": "true"
+  },
   
 ]
