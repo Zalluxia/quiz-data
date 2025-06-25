@@ -1,9 +1,11 @@
-{
-  "book": "Somatik",
-  "chapter": "Anatomi",
-  "subchapter": "Knogler",
-  "type": "multiplechoice",
-  "question": "Hvad hedder det største ben i kroppen?",
-  "options": ["Femur", "Tibia", "Radius", "Humerus"],
-  "correctAnswer": "Femur"
-}
+[
+  {
+    "book": "Somatik",
+    "chapter": "Anatomi",
+    "subchapter": "Knogler",
+    "type": "multiplechoice",
+    "question": "Hvad hedder det største ben i kroppen?",
+    "options": ["Femur", "Tibia", "Radius", "Humerus"],
+    "correctAnswer": "Femur"
+  }
+]
