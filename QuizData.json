@@ -50,5 +50,56 @@
     "question": "Viden om blodtryk og puls er irrelevant for sygeplejerskens arbejde.",
     "correctAnswer": "false"
   },
+    {
+    "book": "Somatik",
+    "chapter": "Fra anatomi til sygepleje",
+    "subchapter": "1.2 Latinske ord for krop og retninger",
+    "type": "multiplechoice",
+    "question": "Hvad kaldes det latinske ord for hovedet af en knogle?",
+    "options": ["Corpus", "Caput", "Collum", "Caecum"],
+    "correctAnswer": "Caput"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Fra anatomi til sygepleje",
+    "subchapter": "1.2 Latinske ord for krop og retninger",
+    "type": "truefalse",
+    "question": "Corpus betyder hoved på latin.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Fra anatomi til sygepleje",
+    "subchapter": "1.2 Latinske ord for krop og retninger",
+    "type": "multiplechoice",
+    "question": "Hvilket latinsk udtryk beskriver en retning væk fra kroppens midterlinje?",
+    "options": ["Medial", "Superior", "Lateral", "Anterior"],
+    "correctAnswer": "Lateral"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Fra anatomi til sygepleje",
+    "subchapter": "1.2 Latinske ord for krop og retninger",
+    "type": "truefalse",
+    "question": "Superior betyder, at noget er placeret oppe eller øverst på kroppen.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Fra anatomi til sygepleje",
+    "subchapter": "1.2 Latinske ord for krop og retninger",
+    "type": "multiplechoice",
+    "question": "Hvordan udtales det latinske ord 'Diaphragma' ifølge udtaletabellen?",
+    "options": ["Diajfragma", "Difragma", "Diapragma", "Drafma"],
+    "correctAnswer": "Difragma"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Fra anatomi til sygepleje",
+    "subchapter": "1.2 Latinske ord for krop og retninger",
+    "type": "truefalse",
+    "question": "Vokalerne 'ae' i latinske ord udtales som æ.",
+    "correctAnswer": "true"
+  },
   
 ]
