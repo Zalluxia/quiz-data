@@ -1,11 +1,54 @@
 [
   {
     "book": "Somatik",
-    "chapter": "Anatomi",
-    "subchapter": "Knogler",
+    "chapter": "Fra anatomi til sygepleje",
+    "subchapter": "1.1 kombination af viden",
     "type": "multiplechoice",
-    "question": "Hvad hedder det største ben i kroppen?",
-    "options": ["Femur", "Tibia", "Radius", "Humerus"],
-    "correctAnswer": "Femur"
-  }
+    "question": "Hvilke fire områder skal kombineres for at få et godt billede af borgerens situation?",
+    "options": ["Anatomi, Fysiologi, Sygepleje, Sygdomslære", "Anatomi, Psykologi, Sygepleje, Ernæring", "Fysiologi, Patologi, Kommunikation, Sygepleje", "Anatomi, Fysiologi, Rehabilitering, Sygdomslære"],
+    "correctAnswer": "Anatomi, Fysiologi, Sygepleje, Sygdomslære"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Fra anatomi til sygepleje",
+    "subchapter": "1.1 kombination af viden",
+    "type": "truefalse",
+    "question": "Det er nok at bruge observationer alene, uden faglig viden, til at planlægge sygepleje.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Fra anatomi til sygepleje",
+    "subchapter": "1.1 kombination af viden",
+    "type": "multiplechoice",
+    "question": "Hvilket symptom kan være tegn på nedsat hjertefunktion?",
+    "options": ["Åndenød", "Feber", "Hovedpine", "Hæshed"],
+    "correctAnswer": "Åndenød"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Fra anatomi til sygepleje",
+    "subchapter": "1.1 kombination af viden",
+    "type": "truefalse",
+    "question": "Sygeplejeprocessen bruges til at finde frem til borgerens behov og planlægge handlinger.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Fra anatomi til sygepleje",
+    "subchapter": "1.1 kombination af viden",
+    "type": "multiplechoice",
+    "question": "Hvad kan der ske, hvis faglig viden ikke bruges i sygeplejen?",
+    "options": ["Sygeplejen bliver tilfældig og uden kvalitet", "Borgeren bliver rask hurtigere", "Man behøver ikke dokumentere", "Sygeplejen bliver nemmere"],
+    "correctAnswer": "Sygeplejen bliver tilfældig og uden kvalitet"
+  },
+  {
+    "book": "Somatik",
+    "chapter": "Fra anatomi til sygepleje",
+    "subchapter": "1.1 kombination af viden",
+    "type": "truefalse",
+    "question": "Viden om blodtryk og puls er irrelevant for sygeplejerskens arbejde.",
+    "correctAnswer": "false"
+  },
+  
 ]
