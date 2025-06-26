@@ -518,5 +518,2337 @@
     "question": "Stamceller kan under visse forhold udvikle sig til cancerceller.",
     "correctAnswer": "true"
   },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.1 Huden",
+    "type": "multiplechoice",
+    "question": "Hvilke tre lag består huden af?",
+    "options": ["Epidermis, dermis, subcutis", "Overhud, fedtvæv, bindevæv", "Hornlag, melanocytter, svedkirtler", "Overfladehud, nervehud, underhud"],
+    "correctAnswer": "Epidermis, dermis, subcutis"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.1 Huden",
+    "type": "truefalse",
+    "question": "Melanocytter danner pigmentet melanin.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.1 Huden",
+    "type": "multiplechoice",
+    "question": "Hvilken funktion har det øverste lag af overhuden (hornlaget)?",
+    "options": ["Producerer melanin", "Forhindrer fordampning og beskytter mod ydre påvirkninger", "Sender signaler til nerver", "Regulerer kropstemperaturen"],
+    "correctAnswer": "Forhindrer fordampning og beskytter mod ydre påvirkninger"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.1 Huden",
+    "type": "truefalse",
+    "question": "Der er blodkar i hele overhuden.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.1 Huden",
+    "type": "multiplechoice",
+    "question": "Hvilket lag i huden indeholder flest blodkar, svedkirtler og nerver?",
+    "options": ["Overhuden", "Læderhuden", "Underhuden", "Hornlaget"],
+    "correctAnswer": "Læderhuden"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.1 Huden",
+    "type": "truefalse",
+    "question": "Overhuden danner nye celler i det dybeste lag, som skubbes op mod overfladen.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.1 Huden",
+    "type": "multiplechoice",
+    "question": "Hvilken funktion har svedkirtlerne?",
+    "options": ["Producerer melanin", "Danner fedt", "Regulerer temperatur", "Producerer hudceller"],
+    "correctAnswer": "Regulerer temperatur"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.1 Huden",
+    "type": "truefalse",
+    "question": "Talgkirtler udskiller fedt, som smører og beskytter huden.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.1 Huden",
+    "type": "multiplechoice",
+    "question": "Hvad indeholder underhuden (subcutis) primært?",
+    "options": ["Fedt og bindevæv", "Pigment og blodkar", "Keratin og melanin", "Svedkirtler og nerver"],
+    "correctAnswer": "Fedt og bindevæv"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.1 Huden",
+    "type": "truefalse",
+    "question": "Sanseceller i huden registrerer blandt andet tryk, smerte og temperatur.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.1 Huden",
+    "type": "multiplechoice",
+    "question": "Hvad er funktionen af keratin i huden?",
+    "options": ["At danne nye celler", "At gøre huden elastisk", "At give huden styrke og gøre den vandafvisende", "At fremme pigmentproduktion"],
+    "correctAnswer": "At give huden styrke og gøre den vandafvisende"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.1 Huden",
+    "type": "truefalse",
+    "question": "Langerhanske celler i huden er en del af immunforsvaret.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.1 Huden",
+    "type": "multiplechoice",
+    "question": "Hvilken rolle spiller kapillærerne i læderhuden?",
+    "options": ["Danner ny hud", "Transporterer fedt", "Sørger for blodforsyning og temperaturregulering", "Producerer sved"],
+    "correctAnswer": "Sørger for blodforsyning og temperaturregulering"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.1 Huden",
+    "type": "truefalse",
+    "question": "Hudens tykkelse er ens over hele kroppen.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.1 Huden",
+    "type": "multiplechoice",
+    "question": "Hvordan påvirker nervetråde i huden kroppen?",
+    "options": ["De stimulerer hårvækst", "De regulerer hormonproduktion", "De sender signaler om fx smerte og tryk", "De lagrer fedt i underhuden"],
+    "correctAnswer": "De sender signaler om fx smerte og tryk"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.2 Slimhinder",
+    "type": "multiplechoice",
+    "question": "Hvad er en funktion af slimhindernes dækvæv i blodkarrene?",
+    "options": [
+      "At transportere glukose ud af blodet",
+      "At forhindre blodet i at bevæge sig",
+      "At mindske gnidningsmodstand, så blodet glider lettere",
+      "At danne hårdt væv"
+    ],
+    "correctAnswer": "At mindske gnidningsmodstand, så blodet glider lettere"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.2 Slimhinder",
+    "type": "truefalse",
+    "question": "Slimhindens væv kan opsuge vand og næringsstoffer i mave-tarm-kanalen.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.2 Slimhinder",
+    "type": "multiplechoice",
+    "question": "Hvilken funktion har slimhinden i den nederste del af tyktarmen og endetarmen?",
+    "options": [
+      "At nedbryde bakterier",
+      "At opsuge glukose",
+      "At beskytte mod hård afføring",
+      "At danne hormoner"
+    ],
+    "correctAnswer": "At beskytte mod hård afføring"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.3 Undersøgelse ved sygdomme i huden",
+    "type": "multiplechoice",
+    "question": "Hvad er en papel ifølge hudens observationsterminologi?",
+    "options": [
+      "En blære fyldt med pus",
+      "Et område med ændret farve",
+      "Et hævet område under 5 mm i højden",
+      "Et sår med skorpe"
+    ],
+    "correctAnswer": "Et hævet område under 5 mm i højden"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.3 Undersøgelse ved sygdomme i huden",
+    "type": "truefalse",
+    "question": "En bulla er en blære, der er mindre end 5 mm.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.3 Undersøgelse ved sygdomme i huden",
+    "type": "multiplechoice",
+    "question": "Hvad bruges mikroskopi til ved hudinfektioner?",
+    "options": [
+      "At måle blodtryk i huden",
+      "At finde allergiske reaktioner",
+      "At identificere mikroorganismer i en prøve",
+      "At registrere temperaturforskelle i huden"
+    ],
+    "correctAnswer": "At identificere mikroorganismer i en prøve"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.3 Undersøgelse ved sygdomme i huden",
+    "type": "truefalse",
+    "question": "En epikutantest kan vise, om en borger har allergi over for et bestemt stof.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.3 Undersøgelse ved sygdomme i huden",
+    "type": "multiplechoice",
+    "question": "Hvad måles ved en blodprøve ifm. hudsygdomme og allergi?",
+    "options": [
+      "Blodtryk og puls",
+      "CRP, leukocytter og IgE",
+      "Temperatur og vægt",
+      "Blodsukker og insulin"
+    ],
+    "correctAnswer": "CRP, leukocytter og IgE"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.3 Undersøgelse ved sygdomme i huden",
+    "type": "truefalse",
+    "question": "En pustel er en blære, som er fyldt med pus.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.5 Sår",
+    "type": "multiplechoice",
+    "question": "Hvad er de tre faser i sårheling?",
+    "options": ["Opheling, lukning, dannelse", "Oprensningsfasen, nydannelsesfasen, modningsfasen", "Inflammation, arvævsdannelse, afskalning", "Infektion, reparation, heling"],
+    "correctAnswer": "Oprensningsfasen, nydannelsesfasen, modningsfasen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.5 Sår",
+    "type": "truefalse",
+    "question": "Oprensningsfasen handler om at fjerne bakterier og døde celler fra såret.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.5 Sår",
+    "type": "multiplechoice",
+    "question": "Hvad kendetegner nydannelsesfasen?",
+    "options": ["Såret tørrer ud", "Der dannes skorpe", "Granulationsvæv og nye blodkar dannes", "Der kommer pus i såret"],
+    "correctAnswer": "Granulationsvæv og nye blodkar dannes"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.5 Sår",
+    "type": "truefalse",
+    "question": "Modningsfasen er den afsluttende fase i sårhelingen.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.5 Sår",
+    "type": "multiplechoice",
+    "question": "Hvad er en almindelig årsag til venøse skinnebenssår?",
+    "options": ["Nedsat blodforsyning i arterierne", "Svampeinfektion", "Forhøjet blodtryk", "Nedsat venepumpefunktion"],
+    "correctAnswer": "Nedsat venepumpefunktion"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.5 Sår",
+    "type": "truefalse",
+    "question": "Arterielle sår skyldes typisk dårlig venecirkulation.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.5 Sår",
+    "type": "multiplechoice",
+    "question": "Hvilken type sår opstår oftest på tæer og fødder og er meget smertefulde?",
+    "options": ["Venøse sår", "Tryksår", "Arterielle sår", "Skoldninger"],
+    "correctAnswer": "Arterielle sår"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.5 Sår",
+    "type": "truefalse",
+    "question": "Tryksår kan forebygges ved hyppig lejring og trykaflastning.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.5 Sår",
+    "type": "multiplechoice",
+    "question": "Hvad bruges til at måle iltmætning i væv omkring et sår?",
+    "options": ["Temperaturmåler", "Ankel-arm-indeks", "Transkutan iltmåling (TcPO2)", "EKG"],
+    "correctAnswer": "Transkutan iltmåling (TcPO2)"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.5 Sår",
+    "type": "truefalse",
+    "question": "Stafylokokker kan give alvorlige sårinfektioner.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.5 Sår",
+    "type": "multiplechoice",
+    "question": "Hvad betyder MRSA?",
+    "options": ["Multiresistent stafylokok", "Modstandsdygtig rødt sår", "Mild reaktion på sår", "Medicinsk registreret sårart"],
+    "correctAnswer": "Multiresistent stafylokok"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.5 Sår",
+    "type": "truefalse",
+    "question": "Kroniske sår heler som regel hurtigt og uden komplikationer.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.5 Sår",
+    "type": "multiplechoice",
+    "question": "Hvilket af følgende er en vigtig observation ved sårpleje?",
+    "options": ["Hårvækst", "Væskende sårbund", "Neglelængde", "Hudens temperatur"],
+    "correctAnswer": "Væskende sårbund"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.5 Sår",
+    "type": "truefalse",
+    "question": "Sår kan være inficerede uden synligt pus.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.5 Sår",
+    "type": "multiplechoice",
+    "question": "Hvad skal man være opmærksom på ved diabetiske fodsår?",
+    "options": ["Overdreven svedproduktion", "Nedsat følesans og blodforsyning", "Forhøjet puls", "Allergiske reaktioner"],
+    "correctAnswer": "Nedsat følesans og blodforsyning"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.6 Rosen (erysipelas)",
+    "type": "multiplechoice",
+    "question": "Hvad er den mest almindelige årsag til rosen (erysipelas)?",
+    "options": ["Staphylococcus aureus", "Pseudomonas", "Hæmolytiske streptokokker", "E. coli"],
+    "correctAnswer": "Hæmolytiske streptokokker"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.6 Rosen (erysipelas)",
+    "type": "truefalse",
+    "question": "Rosen opstår typisk, når bakterier trænger ind i huden gennem en rift eller et sår.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.6 Rosen (erysipelas)",
+    "type": "multiplechoice",
+    "question": "Hvilken aldersgruppe rammes oftere af rosen?",
+    "options": ["Børn", "Unge", "Ældre", "Gravide"],
+    "correctAnswer": "Ældre"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.6 Rosen (erysipelas)",
+    "type": "truefalse",
+    "question": "Ældre mennesker har ofte tyndere hud og dårligere blodforsyning, hvilket øger risikoen for rosen.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.6 Rosen (erysipelas)",
+    "type": "multiplechoice",
+    "question": "Hvordan viser rosen sig typisk på huden?",
+    "options": ["I runde, røde pletter", "I sår med skorpe", "I ringformede forandringer", "I tørre, skællende områder"],
+    "correctAnswer": "I ringformede forandringer"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.6 Rosen (erysipelas)",
+    "type": "multiplechoice",
+    "question": "Hvad er et almindeligt symptom på rosen?",
+    "options": ["Kølig hud", "Nedsat følesans", "Rødme, varme, hævelse og ømhed", "Blå mærker"],
+    "correctAnswer": "Rødme, varme, hævelse og ømhed"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.6 Rosen (erysipelas)",
+    "type": "truefalse",
+    "question": "Betændelsen ved rosen skyldes, at blodkarrene udvider sig og væske trænger ud i vævet.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.6 Rosen (erysipelas)",
+    "type": "multiplechoice",
+    "question": "Hvordan behandles rosen typisk?",
+    "options": ["Med kortison", "Med antibiotika som penicillin", "Med kirurgi", "Med antihistaminer"],
+    "correctAnswer": "Med antibiotika som penicillin"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.6 Rosen (erysipelas)",
+    "type": "truefalse",
+    "question": "Penicillin er normalt effektivt mod rosen.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.6 Rosen (erysipelas)",
+    "type": "multiplechoice",
+    "question": "Hvordan kan man forebygge rosen?",
+    "options": ["Undgå fysisk aktivitet", "Undgå sollys", "Holde huden fugtig og elastisk samt undgå stase", "Bruge stærk parfume"],
+    "correctAnswer": "Holde huden fugtig og elastisk samt undgå stase"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.7 Hudsvampe (dermatofytter)",
+    "type": "multiplechoice",
+    "question": "Hvad er hudsvamp en infektion i?",
+    "options": ["Fedtlaget", "Musklerne", "Hudens yderste lag og keratinholdige strukturer", "Lymfeknuder"],
+    "correctAnswer": "Hudens yderste lag og keratinholdige strukturer"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.7 Hudsvampe (dermatofytter)",
+    "type": "truefalse",
+    "question": "Hudsvamp kan overføres via fugtige håndklæder.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.7 Hudsvampe (dermatofytter)",
+    "type": "multiplechoice",
+    "question": "Hvad kaldes infektionen med skimmelsvamp i huden?",
+    "options": ["Candidiasis", "Ringorm", "Rosacea", "Vitiligo"],
+    "correctAnswer": "Ringorm"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.7 Hudsvampe (dermatofytter)",
+    "type": "multiplechoice",
+    "question": "Hvilket symptom er typisk ved neglesvamp?",
+    "options": ["Sorte negle", "Tykkede og gule negle", "Negletab", "Blødende neglebånd"],
+    "correctAnswer": "Tykkede og gule negle"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.7 Hudsvampe (dermatofytter)",
+    "type": "truefalse",
+    "question": "Personer med diabetes mellitus har øget risiko for hudsvamp.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.7 Hudsvampe (dermatofytter)",
+    "type": "multiplechoice",
+    "question": "Hvor på kroppen opstår hudsvamp oftest hos ældre?",
+    "options": ["På armene", "I ansigtet", "Under brysterne og i hudfolder", "På skuldrene"],
+    "correctAnswer": "Under brysterne og i hudfolder"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.7 Hudsvampe (dermatofytter)",
+    "type": "multiplechoice",
+    "question": "Hvordan diagnosticeres hudsvamp typisk?",
+    "options": ["Ved blodprøve", "Ved scanning", "Ved hudskrab og mikroskopi", "Ved røntgen"],
+    "correctAnswer": "Ved hudskrab og mikroskopi"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.7 Hudsvampe (dermatofytter)",
+    "type": "truefalse",
+    "question": "Hudsvamp kan give hårtab, hvis den angriber hårrødderne.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.7 Hudsvampe (dermatofytter)",
+    "type": "multiplechoice",
+    "question": "Hvordan behandles hudsvamp?",
+    "options": ["Med antibiotika", "Med antihistaminer", "Med svampedræbende midler (fungicider)", "Med steroider"],
+    "correctAnswer": "Med svampedræbende midler (fungicider)"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.7 Hudsvampe (dermatofytter)",
+    "type": "truefalse",
+    "question": "Svampemidler virker ved at nedbryde svampens DNA.",
+    "correctAnswer": "false"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.8 Kontakteksem",
+    "type": "multiplechoice",
+    "question": "Hvad skyldes kontakteksem typisk?",
+    "options": ["Virus", "Kontakt med kemiske stoffer", "Svampeinfektion", "Arvelige faktorer"],
+    "correctAnswer": "Kontakt med kemiske stoffer"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.8 Kontakteksem",
+    "type": "truefalse",
+    "question": "Alle kan udvikle allergisk kontakteksem ved kontakt med visse kemikalier.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.8 Kontakteksem",
+    "type": "multiplechoice",
+    "question": "Hvilket af følgende stoffer kan give allergisk kontakteksem?",
+    "options": ["Salt", "Nikkel", "C-vitamin", "Zink"],
+    "correctAnswer": "Nikkel"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.8 Kontakteksem",
+    "type": "multiplechoice",
+    "question": "Hvad er en typisk årsag til irritativ kontakteksem i sundhedssektoren?",
+    "options": ["Støv", "Alkohol", "Vand og sæbe", "Koldt vejr"],
+    "correctAnswer": "Vand og sæbe"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.8 Kontakteksem",
+    "type": "truefalse",
+    "question": "Sæbe fjerner fedtstoffer i huden og kan dermed skade hudens barriere.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.8 Kontakteksem",
+    "type": "multiplechoice",
+    "question": "Hvad ses typisk som symptom ved kontakteksem?",
+    "options": ["Gule skorper", "Tør og skællende hud", "Sår med pus", "Vabler"],
+    "correctAnswer": "Tør og skællende hud"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.8 Kontakteksem",
+    "type": "truefalse",
+    "question": "Kløe og smerter ved kontakteksem skyldes ofte sprækker i huden.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.8 Kontakteksem",
+    "type": "multiplechoice",
+    "question": "Hvad bruges til at finde ud af, hvilket stof der har forårsaget kontakteksem?",
+    "options": ["Blodprøve", "Epikutantest", "Hudskrab", "Røntgen"],
+    "correctAnswer": "Epikutantest"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.8 Kontakteksem",
+    "type": "multiplechoice",
+    "question": "Hvilken type medicin bruges ofte til behandling af kontakteksem?",
+    "options": ["Antibiotika", "Svampemidler", "Glukokortikoider", "Vacciner"],
+    "correctAnswer": "Glukokortikoider"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.8 Kontakteksem",
+    "type": "truefalse",
+    "question": "Behandling med glukokortikoider virker mod kløe og inflammation.",
+    "correctAnswer": "true"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.9 Hudkræft (non-melanom hudcancer)",
+    "type": "multiplechoice",
+    "question": "Hvilken befolkningsgruppe rammes hyppigst af hudkræft?",
+    "options": ["Borgere med mørk hud", "Borgere med lys hud", "Børn under 10 år", "Teenagere"],
+    "correctAnswer": "Borgere med lys hud"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.9 Hudkræft (non-melanom hudcancer)",
+    "type": "truefalse",
+    "question": "Solskoldninger øger risikoen for hudkræft.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.9 Hudkræft (non-melanom hudcancer)",
+    "type": "multiplechoice",
+    "question": "Hvor på kroppen opstår hudkræft typisk?",
+    "options": ["Fødder og tæer", "Ryg og lænd", "Ører, ansigt og nakke", "Ben og hofter"],
+    "correctAnswer": "Ører, ansigt og nakke"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.9 Hudkræft (non-melanom hudcancer)",
+    "type": "truefalse",
+    "question": "Hudkræft udvikler sig hurtigere i det nederste hudlag end i det øverste.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.9 Hudkræft (non-melanom hudcancer)",
+    "type": "multiplechoice",
+    "question": "Hvad kendetegner et typisk symptom på hudkræft?",
+    "options": ["En rød og varm plet", "Et cirkulært område med forhøjet kant", "Skællende hud", "En blød hævelse"],
+    "correctAnswer": "Et cirkulært område med forhøjet kant"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.9 Hudkræft (non-melanom hudcancer)",
+    "type": "multiplechoice",
+    "question": "Hvorfor kan en knude ved hudkræft forskydes frit?",
+    "options": ["Fordi den er fyldt med væske", "Fordi den er løs i huden", "Fordi den ikke er vokset ind i det underliggende væv", "Fordi den er betændt"],
+    "correctAnswer": "Fordi den ikke er vokset ind i det underliggende væv"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.9 Hudkræft (non-melanom hudcancer)",
+    "type": "truefalse",
+    "question": "Hudkræft kan danne et sår i midten på grund af hurtig vækst.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.9 Hudkræft (non-melanom hudcancer)",
+    "type": "multiplechoice",
+    "question": "Hvilken behandlingsform benyttes ofte ved hudkræft?",
+    "options": ["Antibiotika", "Kirurgi", "Strålebehandling alene", "Hormonbehandling"],
+    "correctAnswer": "Kirurgi"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.9 Hudkræft (non-melanom hudcancer)",
+    "type": "multiplechoice",
+    "question": "Hvornår gives strålebehandling som supplement til kirurgi?",
+    "options": ["Ved alle tilfælde", "Når der er infektion", "Når canceren har spredt sig til blodet", "Når canceren er vokset ind i det omkringliggende væv"],
+    "correctAnswer": "Når canceren er vokset ind i det omkringliggende væv"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.9 Hudkræft (non-melanom hudcancer)",
+    "type": "truefalse",
+    "question": "Plastikkirurgi anvendes ofte ved kirurgisk fjernelse af hudkræft.",
+    "correctAnswer": "true"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.10 Modermærkekræft (malignt melanom)",
+    "type": "multiplechoice",
+    "question": "Hvilken celletype udgår modermærkekræft fra?",
+    "options": ["Keratinocytter", "Fibroblaster", "Melanocytter", "Makrofager"],
+    "correctAnswer": "Melanocytter"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.10 Modermærkekræft (malignt melanom)",
+    "type": "truefalse",
+    "question": "Malignt melanom kan danne metastaser i organer som lunger, knogler og hjerne.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.10 Modermærkekræft (malignt melanom)",
+    "type": "multiplechoice",
+    "question": "Hvad øger risikoen for modermærkekræft?",
+    "options": ["Hyppige bakterieinfektioner", "Solskoldning i barndommen", "Lavt blodtryk", "Mangel på vitamin C"],
+    "correctAnswer": "Solskoldning i barndommen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.10 Modermærkekræft (malignt melanom)",
+    "type": "multiplechoice",
+    "question": "Hvad står 'A' for i ABCDE-reglen ved vurdering af modermærker?",
+    "options": ["Aldersforandringer", "Asymmetri", "Afskalning", "Arvelighed"],
+    "correctAnswer": "Asymmetri"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.10 Modermærkekræft (malignt melanom)",
+    "type": "multiplechoice",
+    "question": "Hvad beskriver 'B' i ABCDE-reglen?",
+    "options": ["Blodforsyning", "Border (grænse)", "Bleghed", "Brunfarvning"],
+    "correctAnswer": "Border (grænse)"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.10 Modermærkekræft (malignt melanom)",
+    "type": "truefalse",
+    "question": "Et modermærke med flere farver kan være et tegn på kræft.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.10 Modermærkekræft (malignt melanom)",
+    "type": "multiplechoice",
+    "question": "Hvad betyder 'Diameter' i ABCDE-reglen?",
+    "options": ["Modermærket er mindre end 3 mm", "Modermærket er større end 6 mm", "Der er blødning fra modermærket", "Farven skifter ofte"],
+    "correctAnswer": "Modermærket er større end 6 mm"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.10 Modermærkekræft (malignt melanom)",
+    "type": "truefalse",
+    "question": "Modermærket er lavere end den omkringliggende hud ved malign melanom.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.10 Modermærkekræft (malignt melanom)",
+    "type": "multiplechoice",
+    "question": "Hvad er den primære behandling for modermærkekræft?",
+    "options": ["Strålebehandling", "Kirurgisk fjernelse", "Cytostatika", "Antibiotika"],
+    "correctAnswer": "Kirurgisk fjernelse"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hud og slimhinder",
+    "subchapter": "3.10 Modermærkekræft (malignt melanom)",
+    "type": "truefalse",
+    "question": "Cytostatika virker effektivt mod modermærkekræft.",
+    "correctAnswer": "false"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "multiplechoice",
+    "question": "Hvilken rækkefølge er korrekt for fordøjelseskanalens organer?",
+    "options": ["Mund – mave – lever – tyktarm – endetarm", "Mund – spiserør – mave – tyndtarm – tyktarm – endetarm", "Mund – mave – tyndtarm – spiserør – endetarm", "Mund – tyndtarm – mave – lever – endetarm"],
+    "correctAnswer": "Mund – spiserør – mave – tyndtarm – tyktarm – endetarm"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "truefalse",
+    "question": "Fordøjelsen starter allerede i munden.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "multiplechoice",
+    "question": "Hvad er spyttets funktion i munden?",
+    "options": ["Nedbryder fedt", "Neutraliserer mavesyre", "Påbegynder nedbrydning af kulhydrater", "Absorberer proteiner"],
+    "correctAnswer": "Påbegynder nedbrydning af kulhydrater"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "truefalse",
+    "question": "Spiserøret udfører peristaltiske bevægelser, som transporterer maden til maven.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "multiplechoice",
+    "question": "Hvad beskytter mavesækken mod mavesyren?",
+    "options": ["Enzymer", "Slimhinde med mucin", "Hårde muskellag", "Natriumhydrogencarbonat"],
+    "correctAnswer": "Slimhinde med mucin"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "multiplechoice",
+    "question": "Hvilken funktion har galde fra leveren og galdeblæren?",
+    "options": ["Nedbryder stivelse", "Nedbryder proteiner", "Emulgerer fedt", "Neutraliserer mavesyre"],
+    "correctAnswer": "Emulgerer fedt"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "truefalse",
+    "question": "Bugspytkirtlen udskiller både fordøjelsesenzymer og hormoner.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "multiplechoice",
+    "question": "Hvor sker den største optagelse af næringsstoffer?",
+    "options": ["Mavesækken", "Tyndtarmen", "Tyktarmen", "Spiserøret"],
+    "correctAnswer": "Tyndtarmen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "multiplechoice",
+    "question": "Hvilken funktion har tyktarmen primært?",
+    "options": ["Nedbryder kulhydrat", "Producerer insulin", "Optager vand og salte", "Emulgerer fedt"],
+    "correctAnswer": "Optager vand og salte"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "truefalse",
+    "question": "Afføring består kun af ufordøjet mad.",
+    "correctAnswer": "false"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "multiplechoice",
+    "question": "Hvad kaldes den bevægelse, der fører føden gennem fordøjelseskanalen?",
+    "options": ["Mastikation", "Peristaltik", "Filtration", "Sekretion"],
+    "correctAnswer": "Peristaltik"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "truefalse",
+    "question": "Tyndtarmen består af duodenum, jejunum og ileum.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "multiplechoice",
+    "question": "Hvad producerer bugspytkirtlen (pancreas)?",
+    "options": ["Insulin og glukagon", "Galde", "Saltsyre", "Slim"],
+    "correctAnswer": "Insulin og glukagon"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "truefalse",
+    "question": "Tarmvilli i tyndtarmen øger overfladearealet for bedre optagelse af næringsstoffer.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "multiplechoice",
+    "question": "Hvad er hovedfunktionen af mavesyren (saltsyre) i maven?",
+    "options": ["Nedbryder fedt", "Dræber mikroorganismer og aktiverer pepsin", "Producerer insulin", "Nedbryder glukose"],
+    "correctAnswer": "Dræber mikroorganismer og aktiverer pepsin"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "truefalse",
+    "question": "Galdeblæren producerer galde.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "multiplechoice",
+    "question": "Hvor foregår størstedelen af den kemiske fordøjelse?",
+    "options": ["Munden", "Spiserøret", "Tyndtarmen", "Tyktarmen"],
+    "correctAnswer": "Tyndtarmen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "multiplechoice",
+    "question": "Hvilket organ regulerer blodsukkeret ved hjælp af insulin og glukagon?",
+    "options": ["Leveren", "Bugspytkirtlen", "Tyndtarmen", "Mavesækken"],
+    "correctAnswer": "Bugspytkirtlen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "truefalse",
+    "question": "Leveren spiller en vigtig rolle i afgiftning af stoffer i kroppen.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.1. Fordøjelseskanalen og fordøjelsesprocessen",
+    "type": "multiplechoice",
+    "question": "Hvilket af disse er ikke en funktion af leveren?",
+    "options": ["Opbevaring af glukose som glykogen", "Produktion af galde", "Produktionen af fordøjelsesenzymer", "Nedbrydning af giftstoffer"],
+    "correctAnswer": "Produktionen af fordøjelsesenzymer"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.2. Undersøgelser i forhold til sygdomme i fordøjelseskanalen",
+    "type": "multiplechoice",
+    "question": "Hvad viser høje værdier af ALAT og ASAT i en blodprøve?",
+    "options": [
+      "At nyrefunktionen er nedsat",
+      "At mange leverceller er døde",
+      "At mængden af galde er for lav",
+      "At der er for lidt insulin i blodet"
+    ],
+    "correctAnswer": "At mange leverceller er døde"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.2. Undersøgelser i forhold til sygdomme i fordøjelseskanalen",
+    "type": "truefalse",
+    "question": "Bilirubin stammer fra nedbrydning af hæmoglobin og udskilles med galden.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.2. Undersøgelser i forhold til sygdomme i fordøjelseskanalen",
+    "type": "multiplechoice",
+    "question": "Hvad kan en ultralydsscanning af abdomen afsløre?",
+    "options": [
+      "Knoglebrud",
+      "Infektion i lungerne",
+      "Metastaser i leveren",
+      "Forhøjet blodsukker"
+    ],
+    "correctAnswer": "Metastaser i leveren"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.2. Undersøgelser i forhold til sygdomme i fordøjelseskanalen",
+    "type": "truefalse",
+    "question": "Basisk fosfatase stiger, hvis galdevejene er blokeret.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.2. Undersøgelser i forhold til sygdomme i fordøjelseskanalen",
+    "type": "multiplechoice",
+    "question": "Hvad undersøger man typisk med en koloskopi?",
+    "options": [
+      "Spiserør og mavesæk",
+      "Blodårer i leveren",
+      "Endetarm og tyktarm",
+      "Bugspytkirtel og lever"
+    ],
+    "correctAnswer": "Endetarm og tyktarm"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.2. Undersøgelser i forhold til sygdomme i fordøjelseskanalen",
+    "type": "truefalse",
+    "question": "Albumin dannes i leveren og hjælper med at opretholde det kolloidosmotiske tryk i blodet.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.2. Undersøgelser i forhold til sygdomme i fordøjelseskanalen",
+    "type": "multiplechoice",
+    "question": "Hvad kan afføringsprøver afsløre?",
+    "options": [
+      "For lidt insulin",
+      "Skjult blod i afføringen",
+      "Høj bilirubin",
+      "For meget saltsyre"
+    ],
+    "correctAnswer": "Skjult blod i afføringen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.2. Undersøgelser i forhold til sygdomme i fordøjelseskanalen",
+    "type": "multiplechoice",
+    "question": "Hvad bruges en gastroskopi til at undersøge?",
+    "options": [
+      "Bugspytkirtlen og leveren",
+      "Tolvfingertarmen, mavesæk og spiserør",
+      "Tyktarmen og endetarmen",
+      "Tyndtarmens længde og tykkelse"
+    ],
+    "correctAnswer": "Tolvfingertarmen, mavesæk og spiserør"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.2. Undersøgelser i forhold til sygdomme i fordøjelseskanalen",
+    "type": "truefalse",
+    "question": "Ved kikkertundersøgelser kan man tage vævsprøver fra slimhinden.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.2. Undersøgelser i forhold til sygdomme i fordøjelseskanalen",
+    "type": "multiplechoice",
+    "question": "Hvad tyder lav albumin i blodet på?",
+    "options": [
+      "Lavt kolesteroltal",
+      "Nyresygdom",
+      "Leversvigt eller dårlig proteinsyntese",
+      "Forhøjet blodsukker"
+    ],
+    "correctAnswer": "Leversvigt eller dårlig proteinsyntese"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.4. Mundsvamp (oral candidiasis)",
+    "type": "multiplechoice",
+    "question": "Hvad er den mest almindelige årsag til mundsvamp?",
+    "options": [
+      "Virusinfektion",
+      "Candida albicans",
+      "Streptokokker",
+      "Svovlholdige fødevarer"
+    ],
+    "correctAnswer": "Candida albicans"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.4. Mundsvamp (oral candidiasis)",
+    "type": "truefalse",
+    "question": "Mundsvamp forekommer kun hos personer med dårligt immunforsvar.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.4. Mundsvamp (oral candidiasis)",
+    "type": "multiplechoice",
+    "question": "Hvilket lægemiddel øger risikoen for mundsvamp?",
+    "options": [
+      "Paracetamol",
+      "Penicillin",
+      "Inhalationsmedicin med binyrebarkhormon",
+      "Antihistaminer"
+    ],
+    "correctAnswer": "Inhalationsmedicin med binyrebarkhormon"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.4. Mundsvamp (oral candidiasis)",
+    "type": "truefalse",
+    "question": "Bredspektrede antibiotika kan forstyrre normalfloraen i munden og give svamp mulighed for at brede sig.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.4. Mundsvamp (oral candidiasis)",
+    "type": "multiplechoice",
+    "question": "Hvad er et typisk symptom på mundsvamp?",
+    "options": [
+      "Gule belægninger på tungen",
+      "Hvide belægninger på tunge, gane og svælg",
+      "Blodig opkast",
+      "Mundtørhed uden synlige forandringer"
+    ],
+    "correctAnswer": "Hvide belægninger på tunge, gane og svælg"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.4. Mundsvamp (oral candidiasis)",
+    "type": "truefalse",
+    "question": "Svampen Candida albicans formerer sig ved knopskydning.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.4. Mundsvamp (oral candidiasis)",
+    "type": "multiplechoice",
+    "question": "Hvilken gruppe personer har øget risiko for at få mundsvamp?",
+    "options": [
+      "Personer med højt blodtryk",
+      "Personer der får inhalationssteroid og har dårlig mundhygiejne",
+      "Personer med lavt kaliumindhold",
+      "Personer som spiser sukker"
+    ],
+    "correctAnswer": "Personer der får inhalationssteroid og har dårlig mundhygiejne"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.4. Mundsvamp (oral candidiasis)",
+    "type": "multiplechoice",
+    "question": "Hvad nedbryder svampen for at optage næring?",
+    "options": [
+      "Bakterier",
+      "Madrester med hjælp fra enzymer",
+      "Sukkerstoffer fra blodet",
+      "Epithelceller"
+    ],
+    "correctAnswer": "Madrester med hjælp fra enzymer"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.4. Mundsvamp (oral candidiasis)",
+    "type": "truefalse",
+    "question": "Rød, irriteret slimhinde i munden er et tegn på inflammation som følge af svampeinfektion.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.4. Mundsvamp (oral candidiasis)",
+    "type": "multiplechoice",
+    "question": "Hvilken mekanisme sætter immunforsvaret i gang for at bekæmpe mundsvamp?",
+    "options": [
+      "Allergisk reaktion",
+      "Inflammation (betændelsestilstand)",
+      "Stigning i blodsukker",
+      "Øget mavesyreproduktion"
+    ],
+    "correctAnswer": "Inflammation (betændelsestilstand)"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.5. Mavesår (ulcus ventriculi/ulcus duodeni)",
+    "type": "multiplechoice",
+    "question": "Hvad er en af de hyppigste årsager til mavesår?",
+    "options": [
+      "Virusinfektion",
+      "Candida albicans",
+      "Helicobacter pylori",
+      "For meget motion"
+    ],
+    "correctAnswer": "Helicobacter pylori"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.5. Mavesår (ulcus ventriculi/ulcus duodeni)",
+    "type": "truefalse",
+    "question": "Rygning nedsætter maveslimens styrke og øger syreproduktionen.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.5. Mavesår (ulcus ventriculi/ulcus duodeni)",
+    "type": "multiplechoice",
+    "question": "Hvornår opstår typisk smerterne ved mavesår?",
+    "options": [
+      "Når man vågner",
+      "Under fysisk aktivitet",
+      "1,5-3 timer efter måltid",
+      "Om natten"
+    ],
+    "correctAnswer": "1,5-3 timer efter måltid"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.5. Mavesår (ulcus ventriculi/ulcus duodeni)",
+    "type": "truefalse",
+    "question": "NSAID og acetylsalicylsyre kan øge risikoen for mavesår.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.5. Mavesår (ulcus ventriculi/ulcus duodeni)",
+    "type": "multiplechoice",
+    "question": "Hvad er et tegn på blødende mavesår?",
+    "options": [
+      "Gul afføring",
+      "Hård mave",
+      "Blodige opkastninger",
+      "Feber"
+    ],
+    "correctAnswer": "Blodige opkastninger"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.5. Mavesår (ulcus ventriculi/ulcus duodeni)",
+    "type": "multiplechoice",
+    "question": "Hvad er en alvorlig komplikation til mavesår?",
+    "options": [
+      "Influenza",
+      "Tandpine",
+      "Perforeret ulcus og bughindebetændelse",
+      "Leversvigt"
+    ],
+    "correctAnswer": "Perforeret ulcus og bughindebetændelse"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.5. Mavesår (ulcus ventriculi/ulcus duodeni)",
+    "type": "truefalse",
+    "question": "Mavesår opstår kun hvis man spiser meget stærk mad.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.5. Mavesår (ulcus ventriculi/ulcus duodeni)",
+    "type": "multiplechoice",
+    "question": "Hvordan diagnosticeres mavesår ofte?",
+    "options": [
+      "Ved urinprøve",
+      "Ved røntgen",
+      "Ved gastroskopi og blodprøver",
+      "Ved ultralyd"
+    ],
+    "correctAnswer": "Ved gastroskopi og blodprøver"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.5. Mavesår (ulcus ventriculi/ulcus duodeni)",
+    "type": "multiplechoice",
+    "question": "Hvilken behandling anvendes typisk mod Helicobacter pylori?",
+    "options": [
+      "Smertestillende medicin",
+      "Antibiotika",
+      "Insulin",
+      "Antihistaminer"
+    ],
+    "correctAnswer": "Antibiotika"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.5. Mavesår (ulcus ventriculi/ulcus duodeni)",
+    "type": "truefalse",
+    "question": "Hvis der opstår perforation, kræver det akut operation.",
+    "correctAnswer": "true"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.6. Galdesten (cholelithiasis)",
+    "type": "multiplechoice",
+    "question": "Hvor bliver galdesten oftest dannet?",
+    "options": [
+      "I leveren",
+      "I bugspytkirtlen",
+      "I galdeblæren",
+      "I tolvfingertarmen"
+    ],
+    "correctAnswer": "I galdeblæren"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.6. Galdesten (cholelithiasis)",
+    "type": "truefalse",
+    "question": "Galdesten består ofte af kolesterol og calcium.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.6. Galdesten (cholelithiasis)",
+    "type": "multiplechoice",
+    "question": "Hvilket symptom ses typisk ved galdesten?",
+    "options": [
+      "Feber og hovedpine",
+      "Smerter under venstre ribben",
+      "Stærke smerter under højre ribben og op i ryg og skulder",
+      "Kramper i benene"
+    ],
+    "correctAnswer": "Stærke smerter under højre ribben og op i ryg og skulder"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.6. Galdesten (cholelithiasis)",
+    "type": "truefalse",
+    "question": "Galdesten kan føre til gulsot (icterus), hvis galdegangen blokeres.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.6. Galdesten (cholelithiasis)",
+    "type": "multiplechoice",
+    "question": "Hvad kan galdesten i galdegangen føre til?",
+    "options": [
+      "Forhøjet puls",
+      "Øget svedproduktion",
+      "Inflammation og fordøjelsesproblemer",
+      "Forstoppelse"
+    ],
+    "correctAnswer": "Inflammation og fordøjelsesproblemer"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.6. Galdesten (cholelithiasis)",
+    "type": "multiplechoice",
+    "question": "Hvilken undersøgelse bruges til at bekræfte mistanke om galdesten?",
+    "options": [
+      "CT-scanning",
+      "Gastroskopi",
+      "Ultralydsscanning",
+      "Blodtrykstest"
+    ],
+    "correctAnswer": "Ultralydsscanning"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.6. Galdesten (cholelithiasis)",
+    "type": "truefalse",
+    "question": "Kvinder har generelt lavere risiko for galdesten end mænd.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.6. Galdesten (cholelithiasis)",
+    "type": "multiplechoice",
+    "question": "Hvilket stof er ofte forhøjet i blodet ved galdesten?",
+    "options": [
+      "Glukose",
+      "Bilirubin",
+      "Natrium",
+      "Kalium"
+    ],
+    "correctAnswer": "Bilirubin"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.6. Galdesten (cholelithiasis)",
+    "type": "multiplechoice",
+    "question": "Hvordan behandles galdesten i svære tilfælde?",
+    "options": [
+      "Med insulin",
+      "Med antibiotika",
+      "Ved fjernelse af galdeblæren",
+      "Ved væskebehandling"
+    ],
+    "correctAnswer": "Ved fjernelse af galdeblæren"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.6. Galdesten (cholelithiasis)",
+    "type": "truefalse",
+    "question": "90 % af patienter med fjernet galdeblære oplever ikke flere symptomer.",
+    "correctAnswer": "true"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.7. Leverbetændelse (hepatitis)",
+    "type": "multiplechoice",
+    "question": "Hvilken hepatitisvirus smitter gennem fødevarer og væsker?",
+    "options": ["Hepatitis A", "Hepatitis B", "Hepatitis C", "Hepatitis D"],
+    "correctAnswer": "Hepatitis A"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.7. Leverbetændelse (hepatitis)",
+    "type": "truefalse",
+    "question": "Hepatitis B-virus smitter kun gennem luftbårne dråber.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.7. Leverbetændelse (hepatitis)",
+    "type": "multiplechoice",
+    "question": "Hvilken hepatitisvirus har størst tendens til at blive kronisk?",
+    "options": ["Hepatitis A", "Hepatitis B", "Hepatitis C", "Hepatitis D"],
+    "correctAnswer": "Hepatitis C"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.7. Leverbetændelse (hepatitis)",
+    "type": "truefalse",
+    "question": "Personer med hepatitis A-virus opnår livslang immunitet efter sygdommen.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.7. Leverbetændelse (hepatitis)",
+    "type": "multiplechoice",
+    "question": "Hvilket symptom forekommer typisk i den sene fase af hepatitis?",
+    "options": ["Hoste", "Gulsot", "Udslæt", "Hovedpine"],
+    "correctAnswer": "Gulsot"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.7. Leverbetændelse (hepatitis)",
+    "type": "multiplechoice",
+    "question": "Hvordan smitter hepatitis C-virus hyppigst?",
+    "options": [
+      "Gennem madvarer",
+      "Via luftbårne dråber",
+      "Via blod blandt stofmisbrugere",
+      "Ved håndtryk"
+    ],
+    "correctAnswer": "Via blod blandt stofmisbrugere"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.7. Leverbetændelse (hepatitis)",
+    "type": "truefalse",
+    "question": "Hepatitis A-virus kan behandles effektivt med antibiotika.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.7. Leverbetændelse (hepatitis)",
+    "type": "multiplechoice",
+    "question": "Hvilken komplikation kan opstå ved kronisk hepatitis B eller C?",
+    "options": [
+      "Diabetes",
+      "Skrumpelever og levercancer",
+      "Mavesår",
+      "Nyresten"
+    ],
+    "correctAnswer": "Skrumpelever og levercancer"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.7. Leverbetændelse (hepatitis)",
+    "type": "multiplechoice",
+    "question": "Hvad måles i blodprøver for at vurdere hepatitis?",
+    "options": [
+      "Blodtryk og puls",
+      "Infektionstal, hepatitis-antistoffer og levertal",
+      "Kolesteroltal og væskebalance",
+      "Sukker og insulin"
+    ],
+    "correctAnswer": "Infektionstal, hepatitis-antistoffer og levertal"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.7. Leverbetændelse (hepatitis)",
+    "type": "truefalse",
+    "question": "Anti-virale præparater kan anvendes til behandling af hepatitis B og C.",
+    "correctAnswer": "true"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.8. Skrumpelever (levercirrose)",
+    "type": "multiplechoice",
+    "question": "Hvad sker der med leveren ved levercirrose?",
+    "options": [
+      "Leveren bliver større og stærkere",
+      "Leveren omdannes til arvæv og skrumper",
+      "Leveren bliver blød og elastisk",
+      "Leveren mister evnen til at producere insulin"
+    ],
+    "correctAnswer": "Leveren omdannes til arvæv og skrumper"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.8. Skrumpelever (levercirrose)",
+    "type": "truefalse",
+    "question": "Overforbrug af alkohol er en hyppig årsag til levercirrose.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.8. Skrumpelever (levercirrose)",
+    "type": "multiplechoice",
+    "question": "Hvilket symptom skyldes væskeophobning i bughulen?",
+    "options": ["Ascites", "Gulsot", "Blå mærker", "Spider nævi"],
+    "correctAnswer": "Ascites"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.8. Skrumpelever (levercirrose)",
+    "type": "truefalse",
+    "question": "Spider nævi skyldes lavt blodtryk i huden.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.8. Skrumpelever (levercirrose)",
+    "type": "multiplechoice",
+    "question": "Hvorfor opstår gulsot ved levercirrose?",
+    "options": [
+      "For lidt jern i kroppen",
+      "Leveren nedbryder ikke bilirubin effektivt",
+      "Forhøjet blodtryk",
+      "Der er for meget protein i blodet"
+    ],
+    "correctAnswer": "Leveren nedbryder ikke bilirubin effektivt"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.8. Skrumpelever (levercirrose)",
+    "type": "multiplechoice",
+    "question": "Hvad kan åreknuder i spiserøret (oesophagusvaricer) føre til?",
+    "options": [
+      "Forstoppelse",
+      "Svimmelhed",
+      "Blødning og livstruende tilstand",
+      "Infektion i galdeblæren"
+    ],
+    "correctAnswer": "Blødning og livstruende tilstand"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.8. Skrumpelever (levercirrose)",
+    "type": "truefalse",
+    "question": "Ved levercoma påvirkes hjernefunktionen af giftstoffer i blodet.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.8. Skrumpelever (levercirrose)",
+    "type": "multiplechoice",
+    "question": "Hvordan kan levercirrose diagnosticeres med sikkerhed?",
+    "options": [
+      "Blodtryk og puls",
+      "Leverbiopsi",
+      "Afføringsprøve",
+      "CT-scanning af hovedet"
+    ],
+    "correctAnswer": "Leverbiopsi"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.8. Skrumpelever (levercirrose)",
+    "type": "truefalse",
+    "question": "Ved levercirrose nedsættes produktionen af koagulationsfaktorer.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.8. Skrumpelever (levercirrose)",
+    "type": "multiplechoice",
+    "question": "Hvad er en vigtig del af behandlingen ved levercirrose?",
+    "options": [
+      "At spise meget sukker",
+      "At undgå vand",
+      "At holde op med at drikke alkohol",
+      "At øge proteinindtaget kraftigt"
+    ],
+    "correctAnswer": "At holde op med at drikke alkohol"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.9. Pancreatitis (betændelse i bugspytkirtlen)",
+    "type": "multiplechoice",
+    "question": "Hvad er pancreatitis?",
+    "options": [
+      "En bakterieinfektion i bughulen",
+      "En betændelsestilstand i bugspytkirtlen",
+      "En svulst i leveren",
+      "En blokering i galdeblæren"
+    ],
+    "correctAnswer": "En betændelsestilstand i bugspytkirtlen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.9. Pancreatitis (betændelse i bugspytkirtlen)",
+    "type": "truefalse",
+    "question": "Ved pancreatitis kan fordøjelsesenzymer begynde at nedbryde bugspytkirtlens eget væv.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.9. Pancreatitis (betændelse i bugspytkirtlen)",
+    "type": "multiplechoice",
+    "question": "Hvilket enzym aktiveres i bugspytkirtlen ved pancreatitis og medfører vævsskade?",
+    "options": [
+      "Pepsin",
+      "Trypsin",
+      "Insulin",
+      "Bilirubin"
+    ],
+    "correctAnswer": "Trypsin"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.9. Pancreatitis (betændelse i bugspytkirtlen)",
+    "type": "truefalse",
+    "question": "Ved kronisk pancreatitis optager kroppen flere næringsstoffer end normalt.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.9. Pancreatitis (betændelse i bugspytkirtlen)",
+    "type": "multiplechoice",
+    "question": "Hvilket af følgende er en kendt årsag til pancreatitis?",
+    "options": [
+      "Højt proteinindtag",
+      "Forstoppelse",
+      "Galdesten der blokerer udførselsgangen",
+      "Vitaminmangel"
+    ],
+    "correctAnswer": "Galdesten der blokerer udførselsgangen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.9. Pancreatitis (betændelse i bugspytkirtlen)",
+    "type": "truefalse",
+    "question": "Et symptom på pancreatitis kan være voldsomme smerter i venstre side under ribbenene.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.9. Pancreatitis (betændelse i bugspytkirtlen)",
+    "type": "multiplechoice",
+    "question": "Hvorfor kan der opstå vægttab ved kronisk pancreatitis?",
+    "options": [
+      "Bugspytkirtlen producerer for meget insulin",
+      "Der optages for få fordøjelsesenzymer i tarmen",
+      "Tarmene bliver blokeret",
+      "Appetitten øges markant"
+    ],
+    "correctAnswer": "Der optages for få fordøjelsesenzymer i tarmen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.9. Pancreatitis (betændelse i bugspytkirtlen)",
+    "type": "multiplechoice",
+    "question": "Hvad er en vigtig del af behandlingen ved pancreatitis?",
+    "options": [
+      "Fjerne årsagen, fx galdesten eller alkoholmisbrug",
+      "Øge produktionen af bugspyt",
+      "Tilføre flere bakterier til tarmen",
+      "Indtage meget fed mad"
+    ],
+    "correctAnswer": "Fjerne årsagen, fx galdesten eller alkoholmisbrug"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.9. Pancreatitis (betændelse i bugspytkirtlen)",
+    "type": "truefalse",
+    "question": "En konsekvens af pancreatitis kan være for lidt insulin i blodet.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.9. Pancreatitis (betændelse i bugspytkirtlen)",
+    "type": "multiplechoice",
+    "question": "Hvorfor opstår kvalme og opkastning ved pancreatitis?",
+    "options": [
+      "Der opstår for lavt blodtryk",
+      "Inflammation sender impulser til brækcenteret",
+      "Bugspytkirtlen producerer for meget syre",
+      "Maven blokeres af galdesten"
+    ],
+    "correctAnswer": "Inflammation sender impulser til brækcenteret"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.10. Cancer coli/recti (kolorektal cancer)",
+    "type": "multiplechoice",
+    "question": "Hvor opstår kolorektal cancer?",
+    "options": [
+      "I spiserøret",
+      "I mavesækken",
+      "I tyktarmen og/eller endetarmen",
+      "I tolvfingertarmen"
+    ],
+    "correctAnswer": "I tyktarmen og/eller endetarmen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.10. Cancer coli/recti (kolorektal cancer)",
+    "type": "truefalse",
+    "question": "85 % af dem, der får kolorektal cancer, er over 60 år.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.10. Cancer coli/recti (kolorektal cancer)",
+    "type": "multiplechoice",
+    "question": "Hvad er en risikofaktor for kolorektal cancer?",
+    "options": [
+      "Højt proteinindtag",
+      "Lys hudtype",
+      "Overvægt og lavt fiberindtag",
+      "For meget søvn"
+    ],
+    "correctAnswer": "Overvægt og lavt fiberindtag"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.10. Cancer coli/recti (kolorektal cancer)",
+    "type": "truefalse",
+    "question": "Et symptom på kolorektal cancer kan være ændret afføringsmønster.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.10. Cancer coli/recti (kolorektal cancer)",
+    "type": "multiplechoice",
+    "question": "Hvad skyldes blodmangel (anæmi) hos patienter med kolorektal cancer?",
+    "options": [
+      "For lavt indtag af jern",
+      "Blødning i tarmen",
+      "Nedsat optagelse af vitamin C",
+      "Infektion i leveren"
+    ],
+    "correctAnswer": "Blødning i tarmen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.10. Cancer coli/recti (kolorektal cancer)",
+    "type": "multiplechoice",
+    "question": "Hvilket symptom er mest typisk ved cancer i den nederste del af tarmen?",
+    "options": [
+      "Feber",
+      "Træthed",
+      "Synligt blod i afføringen",
+      "Mavesmerter i højre side"
+    ],
+    "correctAnswer": "Synligt blod i afføringen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.10. Cancer coli/recti (kolorektal cancer)",
+    "type": "truefalse",
+    "question": "Tumoren ved kolorektal cancer kan give fornemmelse af, at tarmen ikke er tømt helt ud.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.10. Cancer coli/recti (kolorektal cancer)",
+    "type": "multiplechoice",
+    "question": "Hvordan diagnosticeres kolorektal cancer?",
+    "options": [
+      "Ved måling af kropstemperatur",
+      "Ved biopsi fra tarmen og koloskopi",
+      "Ved blodtryk og hjerterytme",
+      "Ved urinprøve og røntgen"
+    ],
+    "correctAnswer": "Ved biopsi fra tarmen og koloskopi"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.10. Cancer coli/recti (kolorektal cancer)",
+    "type": "truefalse",
+    "question": "En anastomose er en kirurgisk sammenføjning af tarmender.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.10. Cancer coli/recti (kolorektal cancer)",
+    "type": "multiplechoice",
+    "question": "Hvordan forebygges bedst kolorektal cancer ifølge teksten?",
+    "options": [
+      "Ved at tage vitaminer dagligt",
+      "Ved at undgå mælkeprodukter",
+      "Ved at leve sundt med kost, motion og lavt alkoholforbrug",
+      "Ved at undgå gluten"
+    ],
+    "correctAnswer": "Ved at leve sundt med kost, motion og lavt alkoholforbrug"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.11. Mave-tarm-infektioner",
+    "type": "multiplechoice",
+    "question": "Hvad er en almindelig årsag til mave-tarm-infektioner?",
+    "options": [
+      "Forkølelse",
+      "Fejl i stofskiftet",
+      "Mikroorganismer fra madvarer",
+      "Mangel på vitaminer"
+    ],
+    "correctAnswer": "Mikroorganismer fra madvarer"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.11. Mave-tarm-infektioner",
+    "type": "truefalse",
+    "question": "Norovirus kræver kun 10-100 vira for at give infektion.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.11. Mave-tarm-infektioner",
+    "type": "multiplechoice",
+    "question": "Hvilken bakterie findes ofte i jord og tåler lave temperaturer?",
+    "options": [
+      "Campylobacter jejuni",
+      "Listeria monocytogenes",
+      "Salmonella typhi",
+      "Clostridioides difficile"
+    ],
+    "correctAnswer": "Listeria monocytogenes"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.11. Mave-tarm-infektioner",
+    "type": "truefalse",
+    "question": "Clostridioides difficile findes i tarmen hos raske personer og bliver først farlig efter antibiotikabehandling.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.11. Mave-tarm-infektioner",
+    "type": "multiplechoice",
+    "question": "Hvilken mikroorganisme er kendt for at give meget voldsom og smitsom opkast og diarré?",
+    "options": [
+      "E. coli",
+      "Norovirus",
+      "Salmonella enterica",
+      "Stafylokokker"
+    ],
+    "correctAnswer": "Norovirus"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.11. Mave-tarm-infektioner",
+    "type": "multiplechoice",
+    "question": "Hvad er et typisk symptom på mave-tarm-infektion?",
+    "options": [
+      "Feber, træthed og kvalme",
+      "Kvalme, opkastning og diarré",
+      "Tør hoste og hovedpine",
+      "Rystelser og ledsmerter"
+    ],
+    "correctAnswer": "Kvalme, opkastning og diarré"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.11. Mave-tarm-infektioner",
+    "type": "truefalse",
+    "question": "Diarré stimulerer tarmen til hurtig udskillelse af store mængder vand og afføring.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.11. Mave-tarm-infektioner",
+    "type": "multiplechoice",
+    "question": "Hvordan kan man identificere typen af mikroorganisme ved mave-tarm-infektion?",
+    "options": [
+      "Ved at måle blodtryk",
+      "Ved afføringsprøve og dyrkning",
+      "Ved urinprøve",
+      "Ved måling af kropstemperatur"
+    ],
+    "correctAnswer": "Ved afføringsprøve og dyrkning"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.11. Mave-tarm-infektioner",
+    "type": "multiplechoice",
+    "question": "Hvilken bakterie kan danne sporer og være resistent over for flere antibiotika?",
+    "options": [
+      "Salmonella typhi",
+      "Clostridioides difficile",
+      "Campylobacter jejuni",
+      "Listeria monocytogenes"
+    ],
+    "correctAnswer": "Clostridioides difficile"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.11. Mave-tarm-infektioner",
+    "type": "truefalse",
+    "question": "Sepsis kan opstå, hvis bakterier fra mave-tarm-infektion kommer i blodet.",
+    "correctAnswer": "true"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.12. Underernæring",
+    "type": "multiplechoice",
+    "question": "Hvad er en primær årsag til underernæring hos raske borgere?",
+    "options": [
+      "Sygdom",
+      "Fejl i stofskiftet",
+      "Social isolation eller fattigdom",
+      "Stofmisbrug"
+    ],
+    "correctAnswer": "Social isolation eller fattigdom"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.12. Underernæring",
+    "type": "truefalse",
+    "question": "Underernæring er defineret som et BMI under 18.5 eller mangel på næringsstoffer.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.12. Underernæring",
+    "type": "multiplechoice",
+    "question": "Hvilket fysisk tegn ses typisk ved underernæring?",
+    "options": [
+      "Hævede læber",
+      "Tykke arme",
+      "Tynd hud og synlige knogler",
+      "Øget muskelmasse"
+    ],
+    "correctAnswer": "Tynd hud og synlige knogler"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.12. Underernæring",
+    "type": "multiplechoice",
+    "question": "Hvad er en konsekvens af lavt niveau af albumin i blodet?",
+    "options": [
+      "Øget energi",
+      "Øget væskeudskillelse",
+      "Dannelse af ødemer",
+      "Øget koagulation"
+    ],
+    "correctAnswer": "Dannelse af ødemer"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.12. Underernæring",
+    "type": "truefalse",
+    "question": "Sekundær underernæring skyldes oftest sygdom.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.12. Underernæring",
+    "type": "multiplechoice",
+    "question": "Hvilket af følgende er en konsekvens af svækket peristaltik ved underernæring?",
+    "options": [
+      "Overvægt",
+      "Oppustethed",
+      "Obstipation (forstoppelse)",
+      "Tarmkræft"
+    ],
+    "correctAnswer": "Obstipation (forstoppelse)"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.12. Underernæring",
+    "type": "truefalse",
+    "question": "Underernæring kan føre til nedsat produktion af transferrin og dermed anæmi.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.12. Underernæring",
+    "type": "multiplechoice",
+    "question": "Hvordan påvirker underernæring immunsystemet?",
+    "options": [
+      "Det bliver stærkere",
+      "Det bliver svækket",
+      "Det får ingen effekt",
+      "Det gør kroppen modstandsdygtig mod infektioner"
+    ],
+    "correctAnswer": "Det bliver svækket"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.12. Underernæring",
+    "type": "multiplechoice",
+    "question": "Hvad sker der med musklerne ved underernæring?",
+    "options": [
+      "De vokser",
+      "De forbliver uændrede",
+      "De bliver fyldige",
+      "De svinder ind og mister masse"
+    ],
+    "correctAnswer": "De svinder ind og mister masse"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.12. Underernæring",
+    "type": "truefalse",
+    "question": "Underernæring kan føre til kognitive problemer pga. forhøjet kortisolniveau.",
+    "correctAnswer": "true"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.13. Underernæring og ældre",
+    "type": "truefalse",
+    "question": "Ældre har mindre muskelmasse og mere fedtmasse, hvilket øger risikoen for dehydrering.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.13. Underernæring og ældre",
+    "type": "multiplechoice",
+    "question": "Hvad sker der med ældres væskeindhold i kroppen?",
+    "options": [
+      "Det øges pga. højere fedtmasse",
+      "Det forbliver uændret",
+      "Det falder pga. lavere muskelmasse",
+      "Det stiger pga. nedsat nyrefunktion"
+    ],
+    "correctAnswer": "Det falder pga. lavere muskelmasse"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.13. Underernæring og ældre",
+    "type": "truefalse",
+    "question": "Ældre har typisk bedre regulering af tørst og appetit end yngre voksne.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.13. Underernæring og ældre",
+    "type": "multiplechoice",
+    "question": "Hvilken funktion er ofte nedsat hos ældre og kan føre til underernæring?",
+    "options": [
+      "Hjerterytme",
+      "Respiration",
+      "Synssans",
+      "Blodtryk"
+    ],
+    "correctAnswer": "Respiration"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.13. Underernæring og ældre",
+    "type": "multiplechoice",
+    "question": "Hvorfor øges risikoen for dehydrering hos ældre?",
+    "options": [
+      "Fordi de har øget muskelmasse",
+      "Fordi de producerer mere urin",
+      "Fordi væsken binder sig til muskler, som de har mindre af",
+      "Fordi de har højere blodtryk"
+    ],
+    "correctAnswer": "Fordi væsken binder sig til muskler, som de har mindre af"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.13. Underernæring og ældre",
+    "type": "truefalse",
+    "question": "Nyrefunktionen er ofte nedsat hos ældre, hvilket kan føre til ophobning af affaldsstoffer i blodet.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.13. Underernæring og ældre",
+    "type": "multiplechoice",
+    "question": "Hvad viser figur 4.13 i bogen?",
+    "options": [
+      "At fedtmasse falder og muskelmasse stiger med alderen",
+      "At muskelmasse og fedtmasse forbliver uændrede",
+      "At muskelmasse falder og fedtmasse stiger med alderen",
+      "At både muskelmasse og fedtmasse stiger med alderen"
+    ],
+    "correctAnswer": "At muskelmasse falder og fedtmasse stiger med alderen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.13. Underernæring og ældre",
+    "type": "truefalse",
+    "question": "Ældre har bedre appetitregulering end yngre voksne.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.13. Underernæring og ældre",
+    "type": "multiplechoice",
+    "question": "Hvad er det primære formål med en ernæringsscreening hos ældre?",
+    "options": [
+      "At måle blodsukker",
+      "At vurdere fedtprocent",
+      "At fastslå ernæringstilstand og planlægge indsats",
+      "At analysere muskelstyrke"
+    ],
+    "correctAnswer": "At fastslå ernæringstilstand og planlægge indsats"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.13. Underernæring og ældre",
+    "type": "multiplechoice",
+    "question": "Hvordan tilpasses behandling af underernæring hos ældre?",
+    "options": [
+      "Med faste og motion",
+      "Ved medicinsk behandling",
+      "Ved kirurgi",
+      "Ved kostplan lagt af diætist"
+    ],
+    "correctAnswer": "Ved kostplan lagt af diætist"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.14. Obstipation (forstoppelse)",
+    "type": "truefalse",
+    "question": "Obstipation opstår, når afføringen opholder sig for kort tid i colon.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.14. Obstipation (forstoppelse)",
+    "type": "multiplechoice",
+    "question": "Hvilket af følgende forhold kan være en årsag til obstipation?",
+    "options": [
+      "For højt væskeindtag",
+      "Regelmæssig motion",
+      "Nedsat peristaltik",
+      "Indtag af kostfibre"
+    ],
+    "correctAnswer": "Nedsat peristaltik"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.14. Obstipation (forstoppelse)",
+    "type": "truefalse",
+    "question": "Kost med for få fibre og protein kan give hård afføring.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.14. Obstipation (forstoppelse)",
+    "type": "multiplechoice",
+    "question": "Hvad sker der med fæces, når den opholder sig længe i colon?",
+    "options": [
+      "Fæces bliver løs og vandig",
+      "Vand bliver trukket ud, og fæces bliver hård",
+      "Fæces udskilles hurtigere",
+      "Fæces fermenteres og opløses"
+    ],
+    "correctAnswer": "Vand bliver trukket ud, og fæces bliver hård"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.14. Obstipation (forstoppelse)",
+    "type": "multiplechoice",
+    "question": "Hvilket symptom skyldes typisk tryk fra afføring i tarmen?",
+    "options": [
+      "Feber",
+      "Smerter i højre arm",
+      "Smerter i abdomen",
+      "Kvalme ved bevægelse"
+    ],
+    "correctAnswer": "Smerter i abdomen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.14. Obstipation (forstoppelse)",
+    "type": "truefalse",
+    "question": "Diuretika og opioider kan forværre obstipation.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.14. Obstipation (forstoppelse)",
+    "type": "multiplechoice",
+    "question": "Hvilket lægemiddel blødgør afføringen ved at suge vand til sig?",
+    "options": [
+      "Peristaltikstimulerende laksantia",
+      "Osmotisk virkende laksantia",
+      "Volumendannende laksantia",
+      "Blødgørende laksantia"
+    ],
+    "correctAnswer": "Blødgørende laksantia"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.14. Obstipation (forstoppelse)",
+    "type": "multiplechoice",
+    "question": "Hvad er et typisk tegn på svær obstipation?",
+    "options": [
+      "Løs afføring og feber",
+      "Smerter og udspilet abdomen",
+      "Hyppige afføringer",
+      "Sved og hjertebanken"
+    ],
+    "correctAnswer": "Smerter og udspilet abdomen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.14. Obstipation (forstoppelse)",
+    "type": "truefalse",
+    "question": "Motion og kost rig på fibre forebygger obstipation.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Fordøjelsessystemet",
+    "subchapter": "4.14. Obstipation (forstoppelse)",
+    "type": "multiplechoice",
+    "question": "Hvordan undersøger man typisk for dehydrering ved obstipation?",
+    "options": [
+      "Ved at måle puls og blodtryk",
+      "Ved at tage temperatur",
+      "Ved at måle hæmatokrit og natrium i blodprøver",
+      "Ved at måle urinens farve"
+    ],
+    "correctAnswer": "Ved at måle hæmatokrit og natrium i blodprøver"
+  },
   
 ]
