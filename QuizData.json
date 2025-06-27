@@ -2850,5 +2850,345 @@
     ],
     "correctAnswer": "Ved at måle hæmatokrit og natrium i blodprøver"
   },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.1. Hjertet (cor)",
+    "type": "truefalse",
+    "question": "Hjertet pumper blodet rundt i kroppen cirka 60-70 gange i minuttet i hvile.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.1. Hjertet (cor)",
+    "type": "multiplechoice",
+    "question": "Hvad hedder hjertets midterste lag, der består af muskulatur?",
+    "options": ["Perikardiet", "Myokardiet", "Endokardiet", "Epikardiet"],
+    "correctAnswer": "Myokardiet"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.1. Hjertet (cor)",
+    "type": "truefalse",
+    "question": "Venstre hjertehalvdel pumper blodet ud i lungerne.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.1. Hjertet (cor)",
+    "type": "multiplechoice",
+    "question": "Hvad kaldes klappen mellem venstre hjertekammer og aorta?",
+    "options": ["Pulmonalklappen", "Trikuspidalklappen", "Mitralklappen", "Aortaklappen"],
+    "correctAnswer": "Aortaklappen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.1. Hjertet (cor)",
+    "type": "multiplechoice",
+    "question": "Hvad er hjertets funktion?",
+    "options": [
+      "At filtrere blodet",
+      "At nedbryde næringsstoffer",
+      "At pumpe blodet gennem to kredsløb",
+      "At producere hormoner"
+    ],
+    "correctAnswer": "At pumpe blodet gennem to kredsløb"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.1. Hjertet (cor)",
+    "type": "truefalse",
+    "question": "Kranspulsårerne fører blod fra hjertet ud til resten af kroppen.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.1. Hjertet (cor)",
+    "type": "multiplechoice",
+    "question": "Hvad hedder de to øverste kamre i hjertet?",
+    "options": ["Atrier", "Ventrikler", "Septum", "Sinusknuder"],
+    "correctAnswer": "Atrier"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.1. Hjertet (cor)",
+    "type": "truefalse",
+    "question": "Højre hjertekammer pumper blodet ud i lungerne.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.1. Hjertet (cor)",
+    "type": "multiplechoice",
+    "question": "Hvad sker der, hvis en kranspulsåre blokeres af en blodprop?",
+    "options": [
+      "Der opstår et hjerteanfald (blodprop i hjertet)",
+      "Blodtrykket stiger midlertidigt",
+      "Hjertet pumper hurtigere",
+      "Lungerne fyldes med væske"
+    ],
+    "correctAnswer": "Der opstår et hjerteanfald (blodprop i hjertet)"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.1. Hjertet (cor)",
+    "type": "multiplechoice",
+    "question": "Hvad hedder skillevæggen mellem højre og venstre hjertehalvdel?",
+    "options": ["Septum", "Sinus", "Atrium", "Perikardium"],
+    "correctAnswer": "Septum"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.2. Impulserne i hjertet",
+    "type": "truefalse",
+    "question": "Sinusknuden sidder i venstre forkammer.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.2. Impulserne i hjertet",
+    "type": "multiplechoice",
+    "question": "Hvilken struktur starter hjertets elektriske impuls?",
+    "options": ["His' bundt", "Sinusknuden", "AV-knuden", "Purkinjefibrene"],
+    "correctAnswer": "Sinusknuden"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.2. Impulserne i hjertet",
+    "type": "truefalse",
+    "question": "AV-knuden opfanger impulserne fra forkamrene.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.2. Impulserne i hjertet",
+    "type": "multiplechoice",
+    "question": "Hvilken funktion har His' bundt?",
+    "options": [
+      "At sende impulser til forkamrene",
+      "At isolere venstre og højre hjertehalvdel",
+      "At lede impulser videre til hjertekamrene",
+      "At pumpe blodet ud i aorta"
+    ],
+    "correctAnswer": "At lede impulser videre til hjertekamrene"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.2. Impulserne i hjertet",
+    "type": "truefalse",
+    "question": "Purkinjefibrene leder impulsen ud i muskulaturen i hjertekamrene.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.2. Impulserne i hjertet",
+    "type": "multiplechoice",
+    "question": "Hvad kaldes den fase, hvor hjertet trækker sig sammen?",
+    "options": ["Diastole", "Asystole", "Systole", "Hyperventilation"],
+    "correctAnswer": "Systole"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.2. Impulserne i hjertet",
+    "type": "multiplechoice",
+    "question": "Hvad kaldes den fase, hvor hjertet slapper af og fyldes med blod?",
+    "options": ["Systole", "Diastole", "Tetanus", "Sinusrytme"],
+    "correctAnswer": "Diastole"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.2. Impulserne i hjertet",
+    "type": "truefalse",
+    "question": "Normalt sender sinusknuden ca. 70 impulser i minuttet i hvile.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.2. Impulserne i hjertet",
+    "type": "multiplechoice",
+    "question": "Hvad kaldes det volumen blod, som hjertet pumper ud pr. slag?",
+    "options": ["Minutvolumen", "Residualvolumen", "Slagvolumen", "Tidalvolumen"],
+    "correctAnswer": "Slagvolumen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.2. Impulserne i hjertet",
+    "type": "multiplechoice",
+    "question": "Hvad kaldes den samlede mængde blod, hjertet pumper pr. minut?",
+    "options": ["Slagvolumen", "Minutvolumen", "Blodtryk", "Systolisk tryk"],
+    "correctAnswer": "Minutvolumen"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.2. Impulserne i hjertet",
+    "type": "truefalse",
+    "question": "Pulsen er udtryk for, hvor hurtigt hjertet slår.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.2. Impulserne i hjertet",
+    "type": "multiplechoice",
+    "question": "Hvad kaldes det højeste tryk i arterierne under hjertets sammentrækning?",
+    "options": ["Diastolisk tryk", "Systolisk tryk", "Venetryk", "Pulstryk"],
+    "correctAnswer": "Systolisk tryk"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.2. Impulserne i hjertet",
+    "type": "truefalse",
+    "question": "Systolisk blodtryk måles, når hjertet er afslappet.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.2. Impulserne i hjertet",
+    "type": "multiplechoice",
+    "question": "Hvilken struktur sikrer, at impulsen forsinkes, så forkamrene kan tømmes, før kamrene trækker sig sammen?",
+    "options": ["Sinusknuden", "His' bundt", "AV-knuden", "Purkinjefibrene"],
+    "correctAnswer": "AV-knuden"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.2. Impulserne i hjertet",
+    "type": "truefalse",
+    "question": "Diastole er den fase, hvor hjertemuskulaturen afslappes.",
+    "correctAnswer": "true"
+  },
+    {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.3. Det lille og det store kredsløb",
+    "type": "truefalse",
+    "question": "Det lille kredsløb transporterer blod fra hjertet til lungerne og tilbage igen.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.3. Det lille og det store kredsløb",
+    "type": "multiplechoice",
+    "question": "Hvad er hovedfunktionen af det store kredsløb?",
+    "options": [
+      "At fjerne kuldioxid fra blodet",
+      "At transportere næringsstoffer og ilt til kroppens celler",
+      "At transportere blod gennem lungerne",
+      "At producere blodlegemer"
+    ],
+    "correctAnswer": "At transportere næringsstoffer og ilt til kroppens celler"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.3. Det lille og det store kredsløb",
+    "type": "truefalse",
+    "question": "I det store kredsløb pumpes blodet fra venstre hjertekammer ud i aorta.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.3. Det lille og det store kredsløb",
+    "type": "multiplechoice",
+    "question": "Hvad kaldes det specielle system, hvor blodet fra tarmen føres til leveren?",
+    "options": [
+      "Lymfesystemet",
+      "Portåresystemet",
+      "Kranspulsårerne",
+      "Det lille kredsløb"
+    ],
+    "correctAnswer": "Portåresystemet"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.3. Det lille og det store kredsløb",
+    "type": "truefalse",
+    "question": "Portåresystemet sørger for, at næringsstoffer fra fordøjelsen transporteres direkte til leveren.",
+    "correctAnswer": "true"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.3. Det lille og det store kredsløb",
+    "type": "multiplechoice",
+    "question": "Hvilket tryk hjælper med at presse væske ud af kapillærerne i vævet?",
+    "options": [
+      "Kolloidosmotisk tryk",
+      "Hydrostatisk tryk",
+      "Atmosfærisk tryk",
+      "Osmotisk tryk"
+    ],
+    "correctAnswer": "Hydrostatisk tryk"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.3. Det lille og det store kredsløb",
+    "type": "multiplechoice",
+    "question": "Hvad sker der i lungekapillærerne i det lille kredsløb?",
+    "options": [
+      "Optagelse af næringsstoffer",
+      "Udskillelse af affaldsstoffer til nyrerne",
+      "Optagelse af ilt og afgivelse af kuldioxid",
+      "Filtrering af blodets proteiner"
+    ],
+    "correctAnswer": "Optagelse af ilt og afgivelse af kuldioxid"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.3. Det lille og det store kredsløb",
+    "type": "truefalse",
+    "question": "Blodet fra det store kredsløb vender tilbage til hjertets venstre forkammer.",
+    "correctAnswer": "false"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.3. Det lille og det store kredsløb",
+    "type": "multiplechoice",
+    "question": "Hvad kaldes de mindste blodkar, hvor udvekslingen af gasser og næringsstoffer sker?",
+    "options": [
+      "Arterier",
+      "Vener",
+      "Kapillærer",
+      "Arterioler"
+    ],
+    "correctAnswer": "Kapillærer"
+  },
+  {
+    "book": "Somatik bind 1",
+    "chapter": "Hjerte og kredsløb",
+    "subchapter": "5.3. Det lille og det store kredsløb",
+    "type": "truefalse",
+    "question": "I det store kredsløb transporteres kuldioxid til lungerne.",
+    "correctAnswer": "false"
+  },
+  
   
 ]
